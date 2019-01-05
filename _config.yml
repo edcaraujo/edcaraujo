@@ -1,0 +1,38 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: edcaraujo
+subtitle: Eduardo Cruz Araújo
+epigraphy: The meaning of life is to give life meaning
+description: Olá! Meu nome é Eduardo e esta é minha página pessoal. Espero que este seja um local onde você possa aprender um pouco mais sobre tecnologia, inovação e ciência, além de conhecer um pouco mais sobre meus projetos e interesses.
+
+url: http://edcaraujo.com
+
+github: edcaraujo
+linkedin: edcaraujo
+skype: edcaraujo
+instagram: edcaraujo
+
+# Build settings
+markdown: kramdown
+
+# Theme settings
+navigation: 
+  - index.md
+  - projects/projects.md
+  - research/research.md
+  - publications/publications.md
+  - blog/blog.md
+
+# Plugins settings
+plugins:
+  - jekyll-feed
+  - jekyll_version_plugin
