@@ -49,7 +49,7 @@
           <div class="trigger">
             {%- for item in site.navigation -%}
               {%- assign current = site.pages | where: "path", item | first -%}
-              {{ current.icon }} <a class="page-link" href="{{ current.url }}">{{ current.title | escape }}</a>
+              <a class="page-link" href="{{ current.url }}">{{ current.icon }} {{ current.title | escape }}</a>
             {%- endfor -%}
           </div>
         </nav>
