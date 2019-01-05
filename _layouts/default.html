@@ -33,6 +33,8 @@
   </head>
 
   <body>
+    <div id="cabecalho"></div>
+
     <header class="site-header" role="banner">
       <div class="wrapper">
         <a class="site-title" rel="author" href="/">{{ site.title | escape }}</a>
@@ -57,13 +59,9 @@
     </header>
 
     <main class="page-content" aria-label="Content">
-      <div id="cabecalho"></div>
-
       <div class="wrapper">
         {{ content }}
       </div>
-
-      <div id="rodape"></div>
     </main>
 
     <footer class="site-footer h-card">
@@ -110,6 +108,8 @@
         </div>
       </div>
     </footer>
+
+    <div id="rodape"></div>
 
   </body>
 </html>
