@@ -11,13 +11,13 @@ layout: default
     </p>
   </header>
 
-  {% include sections.html %}
+  {% include layout-toc.html %}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-  {% include sections.html %}
+  {% include layout-toc.html %}
 
   {%- if jekyll.environment == "production" -%}
     {%- include service-disqus.html -%}

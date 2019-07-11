@@ -7,12 +7,12 @@ layout: default
     <h1 class="post-title">{{ page.icon }} {{ page.title | escape }}</h1>
   </header>
 
-  {% include sections.html %}
+  {% include layout-toc.html %}
 
   <div class="post-content">
     {{ content }}
   </div>
 
-  {% include sections.html %}
+  {% include layout-toc.html %}
 
 </article>
