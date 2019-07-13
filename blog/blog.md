@@ -3,7 +3,7 @@ layout: page
 
 permalink: /blog/
 
-title: Blog
+title: blog
 icon: <i class="fas fa-rss-square"></i>
 
 sections:

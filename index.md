@@ -1,7 +1,7 @@
 ---
 layout: page
 
-title: Sobre
+title: sobre
 icon: <i class="fas fa-id-card"></i>
 
 sections:

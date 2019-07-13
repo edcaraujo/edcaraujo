@@ -3,7 +3,7 @@ layout: page
 
 permalink: /publicacoes/
 
-title: Publicações
+title: publicações
 icon: <i class="fas fa-book"></i>
 
 sections:

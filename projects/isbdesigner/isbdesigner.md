@@ -23,4 +23,4 @@ sections:
 
 ## Releases
 
-- [v0.0.1](/projetos/isbdesigner/0.0.1/)
+- <i class="fas fa-tag"></i> [v0.0.1](/projetos/isbdesigner/0.0.1/)
