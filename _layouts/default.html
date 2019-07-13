@@ -51,7 +51,7 @@
           <div class="trigger">
             {%- for item in site.navigation -%}
               {%- assign current = site.pages | where: "path", item | first -%}
-              <a class="page-link" href="{{ current.url }}">{{ current.icon }} {{ current.title | escape }}</a>
+              <a class="page-link" href="{{ current.url }}"> {{ current.title | escape }}</a>
             {%- endfor -%}
           </div>
         </nav>
@@ -104,7 +104,7 @@
         </div>
 
         <div class="footer-copyright">
-            <p>Made with <i class="fas fa-coffee"></i> by <a href="{{ site.url }}">{{ site.title }}</a> | Powered by <a href="https://jekyllrb.com/">Jekyll</a><br><a href="https://github.com/edcaraujo/edcaraujo/"><i class="fas fa-code-branch"></i> {% project_version %}</a></p>
+            <p><i class="fas fa-code"></i> with <i class="fas fa-coffee"></i> by <a href="{{ site.url }}">{{ site.title }}</a> | Powered by <a href="https://jekyllrb.com/">Jekyll</a><br><a href="https://github.com/edcaraujo/edcaraujo/"><i class="fas fa-code-branch"></i> {% project_version %}</a></p>
         </div>
       </div>
     </footer>
