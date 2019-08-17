@@ -16,7 +16,7 @@ layout: default
         <strong><i class="fas fa-sitemap"></i> Categorias:</strong>
         {% for category in page.categories %}
           {% if category != 'blog' %}
-            <a href="{{ site.url }}/blog/categories/{{ category }}/">{{ category }}</a> 
+            <a href="{{ site.url }}/blog/{{ category }}/">{{ category }}</a> 
   
             {% if category != page.categories.last %}
               •
