@@ -1,0 +1,40 @@
+{% if page.date %}
+  {% assign d = page.date | date: "%-d"  %}
+  {% assign m = page.date | date: "%m"  %}
+  {% assign y = page.date | date: "%Y"  %}
+{% endif %}
+
+{% if post.date %}
+  {% assign d = post.date | date: "%-d"  %}
+  {% assign m = post.date | date: "%m"  %}
+  {% assign y = post.date | date: "%Y"  %}
+{% endif %}
+
+{% case m  %}
+  {% when '01' %}
+    {% assign m = "Jan" %}
+  {% when '02' %}
+    {% assign m = "Fev" %}
+  {% when '03' %}
+    {% assign m = "Mar" %}
+  {% when '04' %}
+    {% assign m = "Abr" %}
+  {% when '05' %}
+    {% assign m = "Mai" %}
+  {% when '06' %}
+    {% assign m = "Jun" %}
+  {% when '07' %}
+    {% assign m = "Jul" %}
+  {% when '08' %}
+    {% assign m = "Ago" %}
+  {% when '09' %}
+    {% assign m = "Set" %}
+  {% when '10' %}
+    {% assign m = "Out" %}
+  {% when '11' %}
+    {% assign m = "Nov" %}
+  {% when '12' %}
+    {% assign m = "Dez" %}
+{% endcase %}
+
+{{ m }} {{ d }}, {{ y }}

@@ -7,8 +7,33 @@ layout: default
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
 
     <p class="post-meta">
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"><i class="far fa-calendar-alt"></i> {{ page.date | date: "%b %-d, %Y" }}</time> • <i class="fas fa-user"></i> <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name">{{ page.author | default: "edcaraujo" }}</span></span>
+      <span><i class="far fa-calendar-alt"></i> {% include layout-date.html %}</span> • <span><i class="fas fa-user"></i> {{ page.author | default: "edcaraujo" }}</span>
     </p>
+
+    <hr/>
+
+    <p class="post-meta">
+        <strong><i class="fas fa-sitemap"></i> Categorias:</strong>
+        {% for category in page.categories %}
+          {% if category != 'blog' %}
+            <a href="{{ site.url }}/blog/categories/{{ category }}/">{{ category }}</a> 
+  
+            {% if category != page.categories.last %}
+              •
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        •
+        <strong><i class="fas fa-tags"></i> Tags:</strong>
+        {% for tag in page.tags %}
+          <a href="{{ site.url }}/blog/tags/{{ tag }}/">{{ tag }}</a> 
+  
+          {% if tag != page.tags.last %}
+            •
+          {% endif %}
+        {% endfor %}
+      </p>
+    
   </header>
 
   {% include layout-toc.html %}

@@ -16,12 +16,18 @@ sections:
   <ul class="post-list">
     {%- for post in site.posts -%}
     <li>
-      <span class="post-meta"><i class="far fa-calendar-alt"></i> {{ post.date | date: "%b %-d, %Y" }}</span>
+      <span class="post-meta">
+        <span><i class="far fa-calendar-alt"></i> {% include layout-date.html %}</span> • <span><i class="fas fa-user"></i> {{ page.author | default: "edcaraujo" }}</span>
+      </span>
       <h3>
         <a class="post-link" href="{{ post.url }}">
           {{ post.title | escape }}
         </a>
       </h3>
+    
+      {{ post.excerpt }}
+
+      <a href="{{ post.url }}">Leia mais »</a>
     </li>
     {%- endfor -%}
   </ul>
