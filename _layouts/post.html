@@ -44,9 +44,9 @@ layout: default
 
   {% include layout-toc.html %}
 
-  {%- if jekyll.environment == "production" -%}
-    {%- include service-disqus.html -%}
-  {%- endif -%}
+  {% if jekyll.environment == "production" %}
+    {% include service-disqus.html %}
+  {% endif %}
 
   <a class="u-url" href="{{ page.url }}" hidden></a>
 </article>

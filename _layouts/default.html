@@ -27,9 +27,9 @@
 
     <link rel="stylesheet" href="/css/default.css">
 
-    {%- if jekyll.environment == 'production' -%}
-      {%- include service-analytics.html -%}
-    {%- endif -%}
+    {% if jekyll.environment == 'production' %}
+      {% include service-analytics.html %}
+    {% endif %}
   </head>
 
   <body>
