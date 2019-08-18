@@ -7,11 +7,11 @@ title: blog
 icon: <i class="fas fa-rss-square"></i>
 
 sections:
- - Últimos posts
+ - Últimas postagens
 ---
 
 {%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">Últimos posts</h2>
+  <h2 class="post-list-heading">Últimas postagens</h2>
   
   <ul class="post-list">
     {%- for post in site.posts -%}

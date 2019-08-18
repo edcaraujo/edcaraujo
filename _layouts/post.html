@@ -16,7 +16,7 @@ layout: default
         <strong><i class="fas fa-sitemap"></i> Categorias:</strong>
         {% for category in page.categories %}
           {% if category != 'blog' %}
-            <a href="{{ site.url }}/blog/categories/{{ category }}/">{{ category }}</a> 
+            <a href="{{ site.url }}/blog/categorias/#{{ category | replace: " ","-" }}">{{ category }}</a> 
   
             {% if category != page.categories.last %}
               •
@@ -26,7 +26,7 @@ layout: default
         •
         <strong><i class="fas fa-tags"></i> Tags:</strong>
         {% for tag in page.tags %}
-          <a href="{{ site.url }}/blog/tags/{{ tag }}/">{{ tag }}</a> 
+          <a href="{{ site.url }}/blog/tags/#{{ tag | replace: " ","-" }}">{{ tag }}</a> 
   
           {% if tag != page.tags.last %}
             •
