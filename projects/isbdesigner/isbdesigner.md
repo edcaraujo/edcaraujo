@@ -6,7 +6,7 @@ permalink: /projetos/isbdesigner/
 title: isbdesigner
 icon: <i class="fas fa-briefcase"></i>
 
-sections:
+navigation:
  - Sobre
  - Releases
 ---

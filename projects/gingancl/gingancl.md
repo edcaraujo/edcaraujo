@@ -6,7 +6,7 @@ permalink: /projetos/gingancl/
 title: gingancl
 icon: <i class="fas fa-briefcase"></i>
 
-sections:
+navigation:
  - Sobre
  - Releases
 ---

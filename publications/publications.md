@@ -6,7 +6,7 @@ permalink: /publicacoes/
 title: publicações
 icon: <i class="fas fa-book"></i>
 
-sections:
+navigation:
  - 2014 (2)
  - 2013 (2)
  - 2012 (1)

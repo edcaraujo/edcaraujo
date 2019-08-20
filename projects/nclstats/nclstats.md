@@ -6,7 +6,7 @@ permalink: /projetos/nclstats/
 title: nclstats
 icon: <i class="fas fa-briefcase"></i>
 
-sections:
+navigation:
  - Sobre
  - Releases
 ---

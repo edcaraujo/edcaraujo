@@ -36,13 +36,13 @@ layout: default
     
   </header>
 
-  {% include layout-toc.html %}
+  {% include layout-navigation.html %}
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
 
-  {% include layout-toc.html %}
+  {% include layout-navigation.html %}
 
   {% if jekyll.environment == "production" %}
     {% include service-disqus.html %}

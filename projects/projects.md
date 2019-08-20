@@ -6,7 +6,7 @@ permalink: /projetos/
 title: projetos
 icon: <i class="fas fa-briefcase"></i>
 
-sections:
+navigation:
  - Ferramentas (9)
  - Pesquisa (6)
  - Outros (1)

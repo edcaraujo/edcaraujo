@@ -6,7 +6,7 @@ permalink: /projetos/gingaaio/
 title: gingaaio
 icon: <i class="fas fa-briefcase"></i>
 
-sections:
+navigation:
  - Sobre
  - Releases
 ---

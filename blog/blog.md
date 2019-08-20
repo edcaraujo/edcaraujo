@@ -6,7 +6,7 @@ permalink: /blog/
 title: blog
 icon: <i class="fas fa-rss-square"></i>
 
-sections:
+navigation:
  - Últimas postagens
 ---
 

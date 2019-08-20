@@ -18,7 +18,7 @@ tags:
  - tv digital
  - telemidia
 
-sections:
+navigation:
  - Download das dependências
  - Download do código
  - Configuração do Projeto

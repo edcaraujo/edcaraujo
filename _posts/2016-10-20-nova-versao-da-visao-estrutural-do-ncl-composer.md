@@ -14,7 +14,7 @@ tags:
  - tv digital
  - telemidia
 
-sections:
+navigation:
  - Antes e depois
  - Conclusão
 ---

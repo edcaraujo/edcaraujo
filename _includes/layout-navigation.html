@@ -1,11 +1,11 @@
 <div>
-{%- if page.sections -%}
+{%- if page.navigation -%}
   <p align="left">
 	  <i class="fas fa-list-alt"></i> • <a href="#rodape"><i class="fas fa-caret-square-down"></i></a> • <a href="#cabecalho"><i class="fas fa-caret-square-up"></i></a>
 
-    {%- for section in page.sections -%}
-      {%- assign anchor = section | downcase | replace: " ", "-" | remove: "(" | remove: ")" -%}
-      {{ "" | prepend: " • " }}<a href="#{{ anchor }}">{{ section }}</a> 
+    {%- for item in page.navigation -%}
+      {%- assign anchor = item | downcase | replace: " ", "-" | remove: "(" | remove: ")" -%}
+      {{ "" | prepend: " • " }}<a href="#{{ anchor }}">{{ item }}</a> 
     {%- endfor -%}
   </p>
 {%- endif -%}

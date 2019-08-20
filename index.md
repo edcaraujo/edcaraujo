@@ -4,7 +4,7 @@ layout: page
 title: sobre
 icon: <i class="fas fa-id-card"></i>
 
-sections:
+navigation:
  - Áreas de Interesse
  - Curriculum
  - Contato

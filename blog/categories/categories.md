@@ -6,7 +6,7 @@ permalink: /blog/categorias/
 title: categorias
 icon: <i class="fas fa-tags"></i>
 
-sections:
+navigation:
  - Todas
  - Detalhes
 ---

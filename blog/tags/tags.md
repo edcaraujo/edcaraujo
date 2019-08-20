@@ -6,7 +6,7 @@ permalink: /blog/tags/
 title: tags
 icon: <i class="fas fa-tags"></i>
 
-sections:
+navigation:
  - Todas
  - Detalhes
 ---

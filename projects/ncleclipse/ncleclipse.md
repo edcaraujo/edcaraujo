@@ -6,7 +6,7 @@ permalink: /projetos/ncleclipse/
 title: ncleclipse
 icon: <i class="fas fa-briefcase"></i>
 
-sections:
+navigation:
  - Sobre
  - Releases
 ---

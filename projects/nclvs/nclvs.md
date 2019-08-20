@@ -6,7 +6,7 @@ permalink: /projetos/nclvs/
 title: nclvs
 icon: <i class="fas fa-briefcase"></i>
 
-sections:
+navigation:
  - Sobre
  - Releases
 ---
