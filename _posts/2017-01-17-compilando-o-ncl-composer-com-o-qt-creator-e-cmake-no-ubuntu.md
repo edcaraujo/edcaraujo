@@ -17,12 +17,6 @@ tags:
  - ginga
  - tv digital
  - telemidia
-
-navigation:
- - Download das dependências
- - Download do código
- - Configuração do Projeto
- - Configuração da Execução
 ---
 
 Para quem acompanha o [repositório](https://github.com/telemidia/nclcomposer) do [NCL Composer](http://composer.telemidia.puc-rio.br/) já deve estar sabendo que aos pouco estamos migrando o nosso sistema de *build* para o [CMake](https://cmake.org/) (thanks to [@robertogerson](http://www.telemidia.puc-rio.br/~robertogerson/)). A maior parte dos benefícios, por enquanto, estão relacionados com a geração dos *releases* e com os sistemas de integração contínua, detalhes que não vou tratar aqui.
@@ -39,10 +33,10 @@ Como referência, estou utilizando: **Ubuntu 16.04 LTS**, **Qt 5.7**, **Qt Creat
 
 Nossa tarefa será dividida em **4** etapas:
 
-1. [Download das dependências](#download-das-dependências)
-2. [Download do código](#download-do-código)
-3. [Configuração do Projeto](#configuração-do-projeto)
-4. [Configuração da Execução](#configuração-da-execução)
+- [Download das dependências](#download-das-depend%c3%aancias)
+- [Download do código](#download-do-c%c3%b3digo)
+- [Configuração do Projeto](#configura%c3%a7%c3%a3o-do-projeto)
+- [Configuração da execução](#configura%c3%a7%c3%a3o-da-execu%c3%a7%c3%a3o)
 
 Como deve ter percebido pelos tópicos, **não** estou considerando que o código do NCL Composer tenha sido **baixado**, ou seja, que você é um desenvolvedor antigo do projeto. Se esse é o caso, lembre-se de **desinstalar** a versão atual, **limpar** os arquivos gerados a partir da compilação anterior e **atualizar** o código. Para isso, primeiramente, **navegue** para diretório onde o código do NCL Composer está localizado. Faça isso através do comando abaixo.
 
@@ -142,7 +136,7 @@ Para **compilar** basta clicar no ícone de *build* (Figura 7) na barra de ferra
 
 Passado alguns minutos a compilação deve terminar. Depois disso podemos executar o NCL Composer e nossa tarefa estará concluída. Portanto, vamos para [última etapa](#configuração-da-execução)!
 
-## Configuração da Execução
+## Configuração da execução
 
 De forma resumida, o que vamos fazer aqui é dizer para o Qt Creator onde está localizado o binário gerado a partir da compilação. Para fazermos isso, clicamos em `Project` na barra de ferramentas do NCL Composer (Figura 8). Em seguida, selecionamos a aba `Run` e alteramos o `Working directory` para o local na qual o binário é gerado.
 

@@ -1,11 +1,11 @@
 ---
 layout: post
 
-title:  Nova Visão Estrutural do NCL Composer
+title: 'Changelog: nclcomposer (v0.3.0)'
 
 categories: 
  - blog
- - noticias
+ - changelog
 
 tags:
  - nclcomposer
@@ -13,10 +13,6 @@ tags:
  - ginga
  - tv digital
  - telemidia
-
-navigation:
- - Antes e depois
- - Conclusão
 ---
 
 Há alguns dias a versão `v0.3.0` do [NCL Composer](http://composer.telemidia.puc-rio.br/) está disponível para [download](http://composer.telemidia.puc-rio.br/en/download). Essa versão traz várias melhorias, especialmente no plugin da **Visão Estrutural**. As mudanças na Visão Estrutural vão desde elementos da interface até uma completa restruturação do código.

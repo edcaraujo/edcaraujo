@@ -5,7 +5,7 @@ title:  Novas mudanças à frente
 
 categories: 
  - blog
- - diaadia
+ - rotina
 
 tags:
  - site
