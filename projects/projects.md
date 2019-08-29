@@ -7,57 +7,33 @@ title: projetos
 icon: <i class="fas fa-briefcase"></i>
 
 navigation:
- - Ferramentas (9)
- - Pesquisa (6)
- - Outros (1)
-
+ - ferramentas (10)
+ - pesquisa (6)
 ---
 
 Aqui você encontra algumas das ferramentas e projetos que estive envolvido nos últimos anos. Se você está procurando por algum projeto que não está listado abaixo, por favor entre [em contato](/#contato).
 
-## Ferramentas (9)
+## Ferramentas (10)
 
-## gingancl
+### viewsaver
 
-**Ginga-NCL**
+<i class="far fa-calendar-alt"></i> *2018 - 2018*
 
-Ginga-NCL is the Ginga subsystem in charge of the presentation of [NCL](http://ncl.org.br/) documents and was developed at PUC-Rio. It defines a presentation environment for declarative applications written in NCL. NCL is an XML application language that provides support for specifying spatio-temporal synchronization among media objects, media content and presentation alternatives, exhibition on multiple devices, and live producing of interactive non-linear programs.
+**ViewSaver**
 
-<i class="fas fa-link"></i>  [Mais detalhes...](/projetos/gingancl/)
+> Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
 
-## gingats
+## cpricon
 
-**Ginga-NCL Conformance Testing Portal**
+<i class="far fa-calendar-alt"></i> *2017 - 2017*
 
-On the Ginga-NCL Conformance Testing Portal, middleware developers and testers can find a comprehensive specification of testing procedures for the [ITU-T H.761](http://www.itu.int/rec/T-REC-H.761) Ginga-NCL middleware. Moreover, they can also make contributions, revising or creating conformance testing items. The Portal was launched in July 2011 with a set of more than 250 assertions, 780 test instructions and 300 test cases.
+**cprIcon**
 
-<i class="fas fa-link"></i>  [Mais detalhes…](/projetos/gingats/)
-
-## nclcomposer
-
-**NCL Composer**
-
-NCL Composer is a multiplataform and flexible multimedia authoring tool to create Interactive Digital TV (iDTV) applications in [NCL](http://ncl.org.br/).
-
-<i class="fas fa-link"></i> [Mais detalhes…](/projetos/nclcomposer/)
-
-## isbdesigner
-
-**ISB Designer: A Tool for Design Interactive Storyboard**
-
-ISB Designer is an authoring tool focused on the design of interactive narratives. Based on techniques used by film and animation producers, the tool does not rule out paradigms they are used to. One of its main advantages is to allow the design of audiovisual content together with its points of adaptation and intervention, thus helping in the detection and correction of narrative inconsistencies. Another ISB Designer differential is the possibility of designing applications for presentations on multiple screens. Unlike other tools, the ISB Designer focuses on the design and prototyping phase of applications, as a means of producing higher quality interactive narratives, for then automatically generate the final application, in a post-project stage.
-
-<i class="fas fa-link"></i> [Mais detalhes…](/projetos/isbdesigner/)
-
-## gingaaio
-
-**Ginga All in One**
-
-Ginga All in One is a virtual machine for execution and authoring of [NCL](http://ncl.org.br/) application. Unlike the [Set-top Box Virtual Ginga-NCL](http://www.softwarepublico.gov.br/dotlrn/clubs/ginga/gingancl/xowiki/gingancl_vm), the gingaaio includes a graphical environment to make even easier to create and execute these applications.
-
-<i class="fas fa-link"></i> [Mais detalhes…](/projetos/gingaaio/)
+>  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
 
 ## nclvs
+
+<i class="far fa-calendar-alt"></i> *2016 - 2016*
 
 **NCL Validator Service**
 
@@ -67,19 +43,68 @@ The NCL Validator Service project is an online validation service for [NCL](http
 
 ## nclstats
 
+<i class="far fa-calendar-alt"></i> *2013 - 2014*
+
 **NCL Stats - statistics about \<ncl\>**
 
 NCL Stats is a tool to generate authoring statistics about [NCL](http://ncl.org.br/) documents.
 
 <i class="fas fa-link"></i> [Mais detalhes…](/projetos/nclstats/)
 
-## cpricon
 
-**cprIcon**
+## nclcomposer
 
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
+<i class="far fa-calendar-alt"></i> *2012 - 2017*
+
+**NCL Composer**
+
+NCL Composer is a multiplataform and flexible multimedia authoring tool to create Interactive Digital TV (iDTV) applications in [NCL](http://ncl.org.br/).
+
+<i class="fas fa-link"></i> [Mais detalhes…](/projetos/nclcomposer/)
+
+## isbdesigner
+
+<i class="far fa-calendar-alt"></i> *2011 - 2014*
+
+**ISB Designer: A Tool for Design Interactive Storyboard**
+
+ISB Designer is an authoring tool focused on the design of interactive narratives. Based on techniques used by film and animation producers, the tool does not rule out paradigms they are used to. One of its main advantages is to allow the design of audiovisual content together with its points of adaptation and intervention, thus helping in the detection and correction of narrative inconsistencies. Another ISB Designer differential is the possibility of designing applications for presentations on multiple screens. Unlike other tools, the ISB Designer focuses on the design and prototyping phase of applications, as a means of producing higher quality interactive narratives, for then automatically generate the final application, in a post-project stage.
+
+<i class="fas fa-link"></i> [Mais detalhes…](/projetos/isbdesigner/)
+
+## gingaaio
+
+<i class="far fa-calendar-alt"></i> *2011 - 2013*
+
+**Ginga All in One**
+
+Ginga All in One is a virtual machine for execution and authoring of [NCL](http://ncl.org.br/) application. Unlike the [Set-top Box Virtual Ginga-NCL](http://www.softwarepublico.gov.br/dotlrn/clubs/ginga/gingancl/xowiki/gingancl_vm), the gingaaio includes a graphical environment to make even easier to create and execute these applications.
+
+<i class="fas fa-link"></i> [Mais detalhes…](/projetos/gingaaio/)
+
+## gingats
+
+<i class="far fa-calendar-alt"></i> *2010 - 2011*
+
+**Ginga-NCL Conformance Testing Portal**
+
+On the Ginga-NCL Conformance Testing Portal, middleware developers and testers can find a comprehensive specification of testing procedures for the [ITU-T H.761](http://www.itu.int/rec/T-REC-H.761) Ginga-NCL middleware. Moreover, they can also make contributions, revising or creating conformance testing items. The Portal was launched in July 2011 with a set of more than 250 assertions, 780 test instructions and 300 test cases.
+
+<i class="fas fa-link"></i>  [Mais detalhes…](/projetos/gingats/)
+
+## gingancl
+
+<i class="far fa-calendar-alt"></i> *2009 - 2016*
+
+**Ginga-NCL**
+
+Ginga-NCL is the Ginga subsystem in charge of the presentation of [NCL](http://ncl.org.br/) documents and was developed at PUC-Rio. It defines a presentation environment for declarative applications written in NCL. NCL is an XML application language that provides support for specifying spatio-temporal synchronization among media objects, media content and presentation alternatives, exhibition on multiple devices, and live producing of interactive non-linear programs.
+
+<i class="fas fa-link"></i>  [Mais detalhes...](/projetos/gingancl/)
 
 ## nclvalidator
+
+<i class="far fa-calendar-alt"></i> *2007 - 2009*
 
 **NCL Validator**
 
@@ -88,6 +113,8 @@ A standalone application and a library to be reused by other applications that a
 <i class="fas fa-link"></i> [Mais detalhes…](/projetos/nclvalidator/)
 
 ## ncleclipse
+
+<i class="far fa-calendar-alt"></i> *2007 - 2009*
 
 **NCL Eclipse**
 
@@ -134,11 +161,3 @@ Até o presente momento, todas as atenções do SBTVD-T têm se voltado para o m
 <i class="far fa-calendar-alt"></i> *2006 - 2007*
 
 Desenvolvimento de uma infra-estrutura para armazenamento e distribuição de conteúdo multimídia streaming, disponibilizando áudio, vídeo e documentos hipermídias (em NCL e SMIL) para a comunidade da UFMA. Este projeto é subdividido em: (a) Infra-estrutura para distribuição de conteúdo multimídia streaming sob demanda, o qual visa desenvolver uma infra-estrutura para distribuir o conteúdo multimídia disponível, tratando de tópicos como avaliação de desempenho e planejamento de capacidade, a fim de poder melhor dimensionar a arquitetura implantada e garantir o oferecimento de um serviço com qualidade aos usuários, mesmo em situações adversas; e (b) Autoria, indexação e busca de conteúdo multimídia interativo, que tem como objetivo implementar uma interface de anotação e indexação de mídias contínuas, especificar mecanismos de consulta ao conteúdo multimídia e desenvolver conteúdo multimídia interativo.
-
-## Outros (1)
-
-### viewsaver
-
-**ViewSaver**
-
-> Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
