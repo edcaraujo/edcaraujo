@@ -4,32 +4,31 @@ layout: page
 permalink: /blog/categorias/
 
 title: categorias
-icon: <i class="fas fa-tags"></i>
 
 navigation:
- - Todas
- - Detalhes
+ - todas
+ - relacionados
 ---
 
-## Todas
+<h2 id="todas">todas ({{ site.tags.size }})</h2>
 
 <ul>
 {% for category in site.categories %}
-{% if category[0] != "blog" %}
-<li><a href="#{{ category[0] }}">{{ category[0] }}</a></li>
-{% endif %}
+  {% if category[0] != "blog" %}
+  <li><a href="#{{ category[0] }}">{{ category[0] }}</a></li>
+  {% endif %}
 {% endfor %}
 </ul>
 
-## Detalhes
+<h2 id="relacionados">relacionados ({{ site.posts.size }})</h2>
 
 {% for category in site.categories %}
 {% if category[0] != "blog" %}
-### {{ category[0] }}
+<h3 id="{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</h3> 
 
 <ul>
 {% for post in category[1] %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 {% endif %}

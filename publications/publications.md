@@ -4,7 +4,6 @@ layout: page
 permalink: /publicacoes/
 
 title: publicações
-icon: <i class="fas fa-book"></i>
 
 navigation:
  - 2014 (2)

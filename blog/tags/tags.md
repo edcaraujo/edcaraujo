@@ -4,29 +4,28 @@ layout: page
 permalink: /blog/tags/
 
 title: tags
-icon: <i class="fas fa-tags"></i>
 
 navigation:
- - Todas
- - Detalhes
+ - todas
+ - relacionados
 ---
 
-## Todas
+<h2 id="todas">todas ({{ site.tags.size }})</h2>
 
 <ul>
 {% for tag in site.tags %}
-<li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
+  <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
 {% endfor %}
 </ul>
 
-## Detalhes
+<h2 id="relacionados">relacionados ({{ site.posts.size }})</h2>
 
 {% for tag in site.tags %}
-### {{ tag[0] }}
+<h3 id="{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</h3> 
 
 <ul>
 {% for post in tag[1] %}
-<li><a href="{{ post.url }}">{{ post.title }}</a></li>
+  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 </ul>
 {% endfor %}

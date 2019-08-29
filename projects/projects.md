@@ -4,7 +4,6 @@ layout: page
 permalink: /projetos/
 
 title: projetos
-icon: <i class="fas fa-briefcase"></i>
 
 navigation:
  - ferramentas (10)
