@@ -1,0 +1,28 @@
+---
+layout: page
+---
+
+{% if page.image %}
+<p>
+  <img src="{{ page.image }}" alt="{{ page.title }}">
+</p>
+{% endif %}
+
+<p>
+  <i class="far fa-calendar-alt"></i> <em>{{ page.duration }}</em> • <i class="fas fa-tags"></i> Tags:
+  {% assign tags = page.tags | sort %}
+
+  {% for tag in tags %}
+    <a>{{ tag }}</a> {% if tag != tags.last %}•{% endif %}
+  {% endfor %}
+</p>
+
+<p><em>{{ page.excerpt }}</em></p>
+
+{% if page.site %}
+<p>
+  <i class="fas fa-home fa-lg"></i> <a href="page.site">{{ page.site }}</a>
+</p>
+{% endif %}
+
+{{ content }}
