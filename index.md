@@ -4,7 +4,7 @@ layout: page
 title: sobre
 
 navigation:
- - áreas de Interesse
+ - áreas de interesse
  - curriculum
  - contato
 ---
