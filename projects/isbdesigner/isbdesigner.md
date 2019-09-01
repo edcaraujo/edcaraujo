@@ -35,7 +35,7 @@ navigation:
 
 ## sobre
 
-  {% include layout-todo.html %}
+  {% include content-todo.html %}
 
 ## releases
 

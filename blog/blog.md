@@ -16,7 +16,7 @@ navigation:
   {%- for post in site.posts -%}
   <li>
     <span class="post-meta">
-      <span><i class="far fa-calendar-alt"></i> {% include layout-date.html %}</span> • <span><i class="fas fa-user"></i> {{ page.author | default: "edcaraujo" }}</span>
+      <span><i class="far fa-calendar-alt"></i> {% include content-date.html %}</span> • <span><i class="fas fa-user"></i> {{ page.author | default: "edcaraujo" }}</span>
     </span>
     <h3>
       <a class="post-link" href="{{ post.url }}">
