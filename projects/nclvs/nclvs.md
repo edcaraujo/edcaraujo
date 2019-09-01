@@ -1,26 +1,26 @@
 ---
-layout: page
+layout: project
 
 permalink: /projetos/nclvs/
 
-title: nclvs
-icon: <i class="fas fa-briefcase"></i>
+title: "NCL Validator Service"
+shorttitle: "nclvs"
 
-navigation:
- - Sobre
- - Releases
+duration: "2016 - 2016"
+
+excerpt: "The NCL Validator Service project is an online validation service for <a href=\"http://ncl.org.br/\">NCL</a> documents. The system uses the NCL Validator developed by the <a href=\"http://laws.deinf.ufma.br/\">Laboratory of Advanced Web Systems</a> to validate the documents."
+
+categories: 
+ - projetos
+ - ferramentas
+ 
+tags:
+  - java
+  - multimídia
+  - validator
+  - ncl
+  - xml
+  - laws
+  - ufma
+  - nclvs
 ---
-
-**NCL Validator Service**
-
-*The NCL Validator Service project is an online validation service for [NCL](http://ncl.org.br/) documents. The system uses the NCL Validator developed by the [Laboratory of Advanced Web Systems](http://laws.deinf.ufma.br/) to validate the documents.*
-
-<i class="fas fa-home fa-lg"></i> [http://validator.ncl.org.br/](http://validator.ncl.org.br/)
-
-## Sobre
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
-
-## Releases
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)

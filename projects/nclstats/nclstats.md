@@ -1,24 +1,28 @@
 ---
-layout: page
+layout: project
 
 permalink: /projetos/nclstats/
 
-title: nclstats
-icon: <i class="fas fa-briefcase"></i>
+title: "NCL Stats: Statistics about NCL"
+shorttitle: "nclstats"
 
-navigation:
- - Sobre
- - Releases
+duration: "2013 - 2014"
+
+excerpt: "NCL Stats is a tool to generate authoring statistics about <a href=\"http://ncl.org.br/\">NCL</a> documents."
+
+categories: 
+ - projetos
+ - ferramentas
+ 
+tags:
+  - qt
+  - c++
+  - javascript
+  - gstatic
+  - multimídia
+  - xml
+  - ncl
+  - telemidia
+  - puc-rio
+  - nclstats
 ---
-
-**NCL Stats - statistics about \<ncl\>**
-
-*NCL Stats is a tool to generate authoring statistics about [NCL](http://ncl.org.br/) documents.*
-
-## Sobre
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
-
-## Releases
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)

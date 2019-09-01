@@ -1,26 +1,30 @@
 ---
-layout: page
+layout: project
 
 permalink: /projetos/ncleclipse/
 
-title: ncleclipse
-icon: <i class="fas fa-briefcase"></i>
+title: "NCL Eclipse"
+shorttitle: "ncleclipse"
 
-navigation:
- - Sobre
- - Releases
+duration: "2007 - 2009"
+
+excerpt: "NCL Eclipse is an Eclipse plug-in to ease the development of NCL applications in textual mode. It provides advanced features for programmers, such as contextual code suggestion, syntax coloring, error marking, and hypertextual navigation."
+
+site: "http://www.telemidia.puc-rio.br/~roberto/ncleclipse/pt-br/"
+
+categories: 
+ - projetos
+ - ferramentas
+ 
+tags:
+  - java
+  - eclipse
+  - autoria
+  - multimídia
+  - ginga
+  - ncl
+  - ncleclipse
+  - plugin
+  - laws
+  - ufma
 ---
-
-**NCL Eclipse**
-
-*An Eclipse plugin to easy textual authoring of [NCL](http://ncl.org.br/) applications.*
-
-<i class="fas fa-home fa-lg"></i> [http://laws.deinf.ufma.br/ncleclipse/](http://laws.deinf.ufma.br/ncleclipse/)
-
-## Sobre
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
-
-## Releases
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)

@@ -1,26 +1,24 @@
 ---
-layout: page
+layout: project
 
 permalink: /projetos/gingancl/
 
-title: gingancl
-icon: <i class="fas fa-briefcase"></i>
+title: "Ginga-NCL"
+shorttitle: "gingancl"
 
-navigation:
- - Sobre
- - Releases
+duration: "2009 - 2016"
+
+excerpt: "Ginga-NCL is the Ginga subsystem in charge of the presentation of <a href=\"http://ncl.org.br/\">NCL</a> documents and was developed at PUC-Rio. It defines a presentation environment for declarative applications written in NCL. NCL is an XML application language that provides support for specifying spatio-temporal synchronization among media objects, media content and presentation alternatives, exhibition on multiple devices, and live producing of interactive non-linear programs."
+
+categories: 
+ - projetos
+ - ferramentas
+ 
+tags:
+  - multimídia
+  - ginga
+  - ncl
+  - telemidia
+  - gingancl
+  - puc-rio
 ---
-
-**Ginga-NCL**
-
-*Ginga-NCL is the Ginga subsystem in charge of the presentation of [NCL](http://ncl.org.br/) documents and was developed at PUC-Rio. It defines a presentation environment for declarative applications written in NCL. NCL is an XML application language that provides support for specifying spatio-temporal synchronization among media objects, media content and presentation alternatives, exhibition on multiple devices, and live producing of interactive non-linear programs*
-
-<i class="fas fa-home fa-lg"></i> [http://www.gingancl.org.br/](http://www.gingancl.org.br/)
-
-## Sobre
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
-
-## Releases
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)

@@ -1,24 +1,30 @@
 ---
-layout: page
+layout: project
 
 permalink: /projetos/gingaaio/
 
-title: gingaaio
-icon: <i class="fas fa-briefcase"></i>
+title: "Ginga All in One"
+shorttitle: "gingaaio"
 
-navigation:
- - Sobre
- - Releases
+duration: "2011 - 2013"
+
+excerpt: "Ginga All in One is a virtual machine for execution and authoring of <a href=\"http://ncl.org.br/\">NCL</a> application. Unlike the <a href=\"http://www.softwarepublico.gov.br/dotlrn/clubs/ginga/gingancl/xowiki/gingancl_vm\">Set-top Box Virtual Ginga-NCL</a>, the gingaaio includes a graphical environment to make even easier to create and execute these applications."
+
+categories: 
+ - projetos
+ - ferramentas
+ 
+tags:
+  - virtual machine
+  - vmware
+  - eclipse
+  - multimídia
+  - ncleclipse
+  - linux
+  - ginga
+  - ncl
+  - nclcomposer
+  - telemidia
+  - gingaaio
+  - puc-rio
 ---
-
-**Ginga All in One**
-
-*Ginga All in One is a virtual machine for execution and authoring of [NCL](http://ncl.org.br/) application. Unlike the [Set-top Box Virtual Ginga-NCL](http://www.softwarepublico.gov.br/dotlrn/clubs/ginga/gingancl/xowiki/gingancl_vm), the gingaaio includes a graphical environment to make even easier to create and execute these applications.*
-
-## Sobre
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
-
-## Releases
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)

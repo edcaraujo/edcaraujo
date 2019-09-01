@@ -1,26 +1,29 @@
 ---
-layout: page
+layout: project
 
 permalink: /projetos/nclcomposer/
 
-title: nclcomposer
-icon: <i class="fas fa-briefcase"></i>
+title: "NCL Composer"
+shorttitle: "nclcomposer"
 
-navigation:
- - Sobre
- - Releases
+duration: "2012 - 2017"
+
+excerpt: "NCL Composer is a multiplataform and flexible multimedia authoring tool to create Interactive Digital TV (iDTV) applications. It provides both textual and graphical abstractions, and allows to export the code to NCL."
+
+site: "http://composer.telemidia.puc-rio.br/"
+
+categories: 
+ - projetos
+ - ferramentas
+ 
+tags:
+  - c++
+  - qt
+  - autoria
+  - multimídia
+  - ginga
+  - ncl
+  - nclcomposer
+  - telemidia
+  - puc-rio
 ---
-
-**NCL Composer**
-
-*NCL Composer is a multiplataform and flexible multimedia authoring tool to create Interactive Digital TV (iDTV) applications in [NCL](http://ncl.org.br/).*
-
-<i class="fas fa-home fa-lg"></i> [http://composer.telemidia.puc-rio.br/](http://composer.telemidia.puc-rio.br/)
-
-## Sobre
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
-
-## Releases
-
->  Meu [<i class="fas fa-dog"></i>](https://pt.wikipedia.org/wiki/Especial:Aleat%C3%B3ria) comeu esta seção. :)
