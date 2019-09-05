@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/gingancl/
 
-title: "Ginga-NCL"
-shorttitle: "gingancl"
+title: "gingancl"
+subtitle: "Ginga-NCL"
 
 duration: "2009 - 2016"
 
@@ -21,4 +21,5 @@ tags:
   - telemidia
   - gingancl
   - puc-rio
+  - tv digital
 ---

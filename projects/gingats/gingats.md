@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/gingancl/
 
-title: "Ginga-NCL Conformance Testing Portal"
-shorttitle: "gingats"
+title: "gingats"
+subtitle: "Ginga-NCL Conformance Testing Portal"
 
 duration: "2010 - 2011"
 

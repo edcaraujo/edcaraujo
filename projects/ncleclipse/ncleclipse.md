@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/ncleclipse/
 
-title: "NCL Eclipse"
-shorttitle: "ncleclipse"
+title: "ncleclipse"
+subtitle: "NCL Eclipse"
 
 duration: "2007 - 2009"
 

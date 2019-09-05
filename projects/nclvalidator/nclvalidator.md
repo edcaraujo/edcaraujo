@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/nclvalidator/
 
-title: "NCL Validator"
-shorttitle: "nclvalidator"
+title: "nclvalidator"
+subtitle: "NCL Validator"
 
 duration: "2007 - 2009"
 

@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/nclstats/
 
-title: "NCL Stats: Statistics about NCL"
-shorttitle: "nclstats"
+title: "nclstats"
+subtitle: "NCL Stats: Statistics about NCL"
 
 duration: "2013 - 2014"
 

@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/viewsaver/
 
-title: "View Saver"
-shorttitle: "viewsaver"
+title: "viewsaver"
+subtitle: "View Saver"
 
 duration: "2018 - 2018"
 

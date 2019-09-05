@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/nclcomposer/
 
-title: "NCL Composer"
-shorttitle: "nclcomposer"
+title: "nclcomposer"
+subtitle: "NCL Composer"
 
 duration: "2012 - 2017"
 

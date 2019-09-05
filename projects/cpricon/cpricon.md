@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/cpricon/
 
-title: "cprIcon: Pacote de ícone para o NCL Composer"
-shorttitle: "cpricon"
+title: "cpricon"
+subtitle: "CPR Icon: Pacote de ícones para o NCL Composer"
 
 duration: "2017 - 2017"
 

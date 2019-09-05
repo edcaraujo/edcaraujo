@@ -23,6 +23,8 @@ Aqui você encontra algumas das ferramentas e projetos que estive envolvido nos 
 {% for item in list %}
 <h3 id="{{ item.title }}">{{ item.title }}</h3>
 
+<p><strong>{{ item.subtitle }}</strong></p>
+
 <p>
   <i class="far fa-calendar-alt"></i> <em>{{ item.duration }}</em> • <i class="fas fa-tags"></i> Tags:
   {% assign tags = item.tags | sort %}
@@ -34,7 +36,7 @@ Aqui você encontra algumas das ferramentas e projetos que estive envolvido nos 
 
 <p>{{ item.excerpt }}</p>
 
-<i class="fas fa-link"></i>  [Mais detalhes…](/projetos/{{ item.shorttitle }}/)
+<i class="fas fa-link"></i>  [Mais detalhes…](/projetos/{{ item.title }}/)
 {% endfor %}
 
 {% endfor %}

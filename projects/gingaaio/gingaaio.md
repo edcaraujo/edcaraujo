@@ -3,8 +3,8 @@ layout: project
 
 permalink: /projetos/gingaaio/
 
-title: "Ginga All in One"
-shorttitle: "gingaaio"
+title: "gingaaio"
+subtitle: "Ginga All in One"
 
 duration: "2011 - 2013"
 
