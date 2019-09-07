@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  Changelog • edcaraujo (0dc1d62)
+title:  Changelog • edcaraujo (3991ad2)
 
 categories: 
  - blog
