@@ -9,6 +9,7 @@ categories:
 
 tags:
  - site
+ - edcaraujo
 ---
 
 Já faz algum tempo desde a última vez que fiz alguma postagem ou mudança crítica no site. Bom, isso chega ao fim hoje. Na verdade, tenho diversos planos para o futuro do site, especialmente para o blog. Assim, pretendo compartilhar novidades da minha rotina, dicas, tutoriais, artigos, notícias etc.

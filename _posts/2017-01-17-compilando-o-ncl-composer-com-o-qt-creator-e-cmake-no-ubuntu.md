@@ -8,15 +8,19 @@ categories:
  - tutoriais
 
 tags:
- - nclcomposer
  - cmake
  - qt
  - qtcreator
  - ubuntu
- - ncl
+ - c++
+ - qt
+ - autoria
+ - multimídia
  - ginga
- - tv digital
+ - ncl
+ - nclcomposer
  - telemidia
+ - puc-rio
 ---
 
 Para quem acompanha o [repositório](https://github.com/telemidia/nclcomposer) do [NCL Composer](http://composer.telemidia.puc-rio.br/) já deve estar sabendo que aos pouco estamos migrando o nosso sistema de *build* para o [CMake](https://cmake.org/) (thanks to [@robertogerson](http://www.telemidia.puc-rio.br/~robertogerson/)). A maior parte dos benefícios, por enquanto, estão relacionados com a geração dos *releases* e com os sistemas de integração contínua, detalhes que não vou tratar aqui.
