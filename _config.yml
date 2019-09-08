@@ -28,6 +28,7 @@ markdown: kramdown
 navigation: 
   - index.md
   - projects/projects.md
+  - presentations/presentations.md
   - publications/publications.md
   - blog/blog.md
 
