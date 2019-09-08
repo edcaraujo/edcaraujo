@@ -1,5 +1,5 @@
+{% for item in list %}
 <ul>
-  {% for item in list %}
-    <li><code class="highlighter-rouge">{{ item.category}}</code> <i class="fas fa-users"></i> {{ item.author }} (<i class="far fa-calendar-alt"></i> <em>{{ item.date }}</em>). <i class="fas fa-bookmark"></i> <strong>{{ item.title }}</strong>. {% if item.publication %}<i class="fas fa-book"></i> <em>{{ item.publication }}</em>.{% endif %} {% if item.location %}<i class="fas fa-map-marker-alt"></i> <em>{{ item.location }}</em>.{% endif %} {% if item.file or item.url %}<i class="fas fa-download"></i>{% endif %} {% if item.file %}[<a href="{{ item.file }}" target="_blank">pdf</a>]{% endif %} {% if item.url %}[<a href="{{ item.url }}" target="_blank">url</a>]{% endif %}</li>
-  {% endfor %}  
+  <li><code class="highlighter-rouge">{{ item.category}}</code> <i class="fas fa-users"></i> {{ item.author }} (<i class="far fa-calendar-alt"></i> <em>{{ item.date }}</em>). <i class="fas fa-bookmark"></i> <strong>{{ item.title }}</strong>. {% if item.publication %}<i class="fas fa-book"></i> <em>{{ item.publication }}</em>.{% endif %} {% if item.location %}<i class="fas fa-map-marker-alt"></i> <em>{{ item.location }}</em>.{% endif %} {% if item.file or item.url %}<i class="fas fa-download"></i>{% endif %} {% if item.file %}[<a href="{{ item.file }}" target="_blank">pdf</a>]{% endif %} {% if item.url %}[<a href="{{ item.url }}" target="_blank">url</a>]{% endif %}</li>
 </ul>
+{% endfor %}  
