@@ -11,8 +11,8 @@ duration: 2009 - 2016
 excerpt: "Ginga-NCL is the Ginga subsystem in charge of the presentation of <a href=\"http://ncl.org.br/\">NCL</a> documents and was developed at PUC-Rio. It defines a presentation environment for declarative applications written in NCL. NCL is an XML application language that provides support for specifying spatio-temporal synchronization among media objects, media content and presentation alternatives, exhibition on multiple devices, and live producing of interactive non-linear programs."
 
 categories: 
- - projetos
- - ferramentas
+ - projects
+ - tools
  
 tags:
   - multimedia
@@ -21,5 +21,6 @@ tags:
   - telemidia
   - gingancl
   - puc-rio
-  - tv digital
+  - digital tv 
+  - middleware
 ---

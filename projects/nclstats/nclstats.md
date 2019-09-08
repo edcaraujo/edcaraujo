@@ -11,16 +11,17 @@ duration: 2013 - 2014
 excerpt: "NCL Stats is a tool to generate authoring statistics about <a href=\"http://ncl.org.br/\">NCL</a> documents."
 
 categories: 
- - projetos
- - ferramentas
+ - projects
+ - tools
  
 tags:
   - qt
+  - authoring
   - c++
   - javascript
   - gstatic
   - multimedia
-  - xml
+  - web
   - ncl
   - telemidia
   - puc-rio

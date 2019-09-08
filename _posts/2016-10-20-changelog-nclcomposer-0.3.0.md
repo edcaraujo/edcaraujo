@@ -17,6 +17,8 @@ tags:
  - nclcomposer
  - telemidia
  - puc-rio
+ - digital tv
+ - plugins
 ---
 
 Há alguns dias a versão `0.3.0` do [NCL Composer](http://composer.telemidia.puc-rio.br/) está disponível para [download](http://composer.telemidia.puc-rio.br/en/download). Essa versão traz várias melhorias, especialmente no plugin da **Visão Estrutural**. As mudanças na Visão Estrutural vão desde elementos da interface até uma completa restruturação do código.

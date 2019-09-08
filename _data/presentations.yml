@@ -4,7 +4,7 @@
   location: "Brazilian Symposium on Multimedia and the Web (WebMedia '14), João Pessoa - PB, Brasil"
   file: "/assets/downloads/projects/isbdesigner/b08bb145ab7508852bf3a3d9d38f4427.pdf"
   category: "conference"
-  tags: [c++, ginga, isbdesigner, multimídia, narrativa interativa, ncl, puc-rio, qt, storyboard, telemidia, tv digital]
+  tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]
   
 - title: "ISB Designer: a tool for design interactive storyboard"
   author: "Eduardo Cruz Araujo"
@@ -12,7 +12,7 @@
   location: "Tópicos em Hipertexto e Multimídia IV (INF2893), Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
   file: "/assets/downloads/projects/isbdesigner/7b3624c0d2cd6c7d3e5a11e6b9743381.pdf"
   category: "class"
-  tags: [c++, ginga, isbdesigner, multimídia, narrativa interativa, ncl, puc-rio, qt, storyboard, telemidia, tv digital]
+  tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]
 
 - title: "Progetando Aplicações para TVDi através de Storyboards Interativos"
   author: "Eduardo Cruz Araujo"
@@ -20,7 +20,7 @@
   location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
   category: "class"
   file: "/assets/downloads/projects/isbdesigner/553ca7ee3b635781180ec363b76568ba.pdf"
-  tags: [c++, ginga, isbdesigner, multimídia, narrativa interativa, ncl, puc-rio, qt, storyboard, telemidia, tv digital]
+  tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]
 
 - title: "Progetando Aplicações para TVDi através de Storyboards Interativos"
   author: "Eduardo Cruz Araujo"
@@ -28,4 +28,4 @@
   location: "RioContentMarket '12, Rio de Janeiro - RJ, Brasil"
   category: "talks"
   file: "/assets/downloads/projects/isbdesigner/b6959979e16cd87dfbe6e9f0bc40fe26.pdf"
-  tags: [c++, ginga, isbdesigner, multimídia, narrativa interativa, ncl, puc-rio, qt, storyboard, telemidia, tv digital]
+  tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]

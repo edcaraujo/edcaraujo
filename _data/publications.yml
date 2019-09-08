@@ -4,7 +4,7 @@
   publication: "Proceedings of The Brazilian Symposium on Multimedia and the Web (WebMedia '14)"
   category: "conference"
   url: "http://doi.acm.org/10.1145/2664551.2664572"
-  tags: [c++, qt, storyboard, interactive narrative, multimedia, digital tv, ncl, telemidia, puc-rio, isbdesigner, authoring]
+  tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]
 
 - title: "Composer: Meeting Non-functional Aspects of Hypermedia Authoring Environment"
   author: "Roberto Gerson Azevedo, Eduardo Cruz Araujo, Bruno Lima, Luiz Fernando Soares e Marcelo F. Moreno"
@@ -12,7 +12,7 @@
   publication: "Multimedia Tools Applications"
   url: "http://dx.doi.org/10.1007/s11042-012-1216-8/"
   category: "journal"
-  tags: [c++, qt, authoring, multimedia, ginga, ncl, nclcomposer, telemidia, puc-rio, digital tv]
+  tags: [c++, qt, authoring, multimedia, ginga, ncl, nclcomposer, telemidia, puc-rio, digital tv, plugins]
 
 - title: "Revisiting the Inter and Intra-media Synchronization Model of the NCL Player Architecture"
   author: "Luiz Fernando Gomes Soares, Guilherme Ferreira Lima, Marcio Ferreira Moreno, Roberto Gerson de Azevedo, Eduardo Cruz Araujo, Ricardo Rios e Carlos Eduardo Coelho Freire Batista"
@@ -28,7 +28,7 @@
   publication: "Proceedings of The ACM symposium on Document engineering (DocEng '13). ACM, New York, NY, USA, 205-214"
   url: "http://doi.acm.org/10.1145/2494266.2494283/"
   category: "conference"
-  tags: [multimedia, ncl, telemidia, puc-rio, template]
+  tags: [multimedia, ncl, telemidia, puc-rio, template, tal, authoring]
 
 - title: "Nested Context Language 3.0 - Parte 14 - Suíte de Testes de Conformidade para o Ginga-NCL"
   author: "Eduardo Cruz Araujo, Luciana Rosa Redlich, Vinícius Carneiro Lago, Marcelo Ferreira Moreno e Luiz Fernando Gomes Soares"
@@ -62,7 +62,7 @@
   location: "São Luís - MA, Brasil"
   url: "http://sistemas.deinf.ufma.br/anaisjim/artigos/2008/42698.pdf"
   category: "conference"
-  tags: [multimedia, ncl, validator, laws, ufma] 
+  tags: [multimedia, ncl, validator, laws, ufma, authoring] 
 
 - title: "Deinf Media Center: Infra-Estrutura para Armazenamento e Distribuição de Conteúdo Multimídia Streaming"
   author: "Roberto Gerson de Albuquerque Azevedo, Mario Meireles Teixeira e Eduardo Cruz Araujo"

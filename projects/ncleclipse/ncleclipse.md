@@ -13,8 +13,8 @@ excerpt: "NCL Eclipse is an Eclipse plug-in to ease the development of NCL appli
 site: http://www.telemidia.puc-rio.br/~roberto/ncleclipse/pt-br/
 
 categories: 
- - projetos
- - ferramentas
+ - projects
+ - tools
  
 tags:
   - java

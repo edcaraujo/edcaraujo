@@ -4,15 +4,15 @@ layout: project
 permalink: /projetos/cpricon/
 
 title: cpricon
-subtitle: "CPR Icon: Pacote de ícones para o NCL Composer"
+subtitle: "CPR Icon: Pacote de ícones do NCL Composer"
 
 duration: 2017 - 2017
 
-excerpt: "Pacote de ícone utilizado pelos plugins do NCL Composer para representar as entidades da NCL."
+excerpt: "Pacote de ícones utilizado pelos plugins do NCL Composer para representar as entidades da NCL."
 
 categories: 
- - projetos
- - ferramentas
+ - projects
+ - tools
  
 tags:
   - icon

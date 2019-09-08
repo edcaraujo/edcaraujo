@@ -13,8 +13,8 @@ excerpt: "NCL Composer is a multiplataform and flexible multimedia authoring too
 site: http://composer.telemidia.puc-rio.br/
 
 categories: 
- - projetos
- - ferramentas
+ - projects
+ - tools
  
 tags:
   - c++
@@ -26,4 +26,6 @@ tags:
   - nclcomposer
   - telemidia
   - puc-rio
+  - digital tv
+  - plugins
 ---
