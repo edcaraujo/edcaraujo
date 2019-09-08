@@ -1,10 +1,18 @@
+- title: "Designing iDTV Applications Through Interactive Storyboards"
+  author: "Eduardo Cruz Araújo e Luiz Fernando Gomes Soares"
+  date: "2014"
+  publication: "Proceedings of The Brazilian Symposium on Multimedia and the Web (WebMedia '14)"
+  category: "conference"
+  url: "http://doi.acm.org/10.1145/2664551.2664572"
+  tags: [c++, qt, storyboard, interactive narrative, multimedia, digital tv, ncl, telemidia, puc-rio, isbdesigner, authoring]
+
 - title: "Composer: Meeting Non-functional Aspects of Hypermedia Authoring Environment"
   author: "Roberto Gerson Azevedo, Eduardo Cruz Araújo, Bruno Lima, Luiz Fernando Soares e Marcelo F. Moreno"
   date: "2014"
   publication: "Multimedia Tools Applications"
   url: "http://dx.doi.org/10.1007/s11042-012-1216-8/"
   category: "journal"
-  tags: [c++, qt, authoring, multimídia, ginga, ncl, nclcomposer, telemidia, puc-rio]
+  tags: [c++, qt, authoring, multimedia, ginga, ncl, nclcomposer, telemidia, puc-rio, digital tv]
 
 - title: "Revisiting the Inter and Intra-media Synchronization Model of the NCL Player Architecture"
   author: "Luiz Fernando Gomes Soares, Guilherme Ferreira Lima, Marcio Ferreira Moreno, Roberto Gerson de Azevedo, Eduardo Cruz Araújo, Ricardo Rios e Carlos Eduardo Coelho Freire Batista"
@@ -62,4 +70,4 @@
   publication: "I Jornada de Informática do Maranhão"
   location: "São Luís - MA, Brasil"
   category: "conference"
-  tags: [multimedia, ncl, validator, laws, ufma] 
+  tags: [multimedia, streaming, laws, ufma] 
