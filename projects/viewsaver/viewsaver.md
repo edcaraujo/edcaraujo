@@ -17,7 +17,7 @@ categories:
 tags:
   - php
   - javascript
-  - saúde
+  - health
   - sus
   - fhsl
   - datasus

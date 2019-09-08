@@ -14,8 +14,8 @@ tags:
  - ubuntu
  - c++
  - qt
- - autoria
- - multimídia
+ - authoting
+ - multimedia
  - ginga
  - ncl
  - nclcomposer

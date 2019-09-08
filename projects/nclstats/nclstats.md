@@ -19,7 +19,7 @@ tags:
   - c++
   - javascript
   - gstatic
-  - multimídia
+  - multimedia
   - xml
   - ncl
   - telemidia

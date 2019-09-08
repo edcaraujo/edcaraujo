@@ -15,7 +15,7 @@ categories:
  - ferramentas
  
 tags:
-  - multimídia
+  - multimedia
   - ginga
   - ncl
   - telemidia

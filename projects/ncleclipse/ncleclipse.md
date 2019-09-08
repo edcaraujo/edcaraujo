@@ -19,8 +19,8 @@ categories:
 tags:
   - java
   - eclipse
-  - autoria
-  - multimídia
+  - authoring
+  - multimedia
   - ginga
   - ncl
   - ncleclipse

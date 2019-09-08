@@ -10,8 +10,8 @@ categories:
 tags:
  - c++
  - qt
- - autoria
- - multimídia
+ - authoring
+ - multimedia
  - ginga
  - ncl
  - nclcomposer

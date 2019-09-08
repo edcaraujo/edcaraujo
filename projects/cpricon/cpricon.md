@@ -15,7 +15,7 @@ categories:
  - ferramentas
  
 tags:
-  - ícone
+  - icon
   - cpricon
   - nclcomposer
   - telemidia

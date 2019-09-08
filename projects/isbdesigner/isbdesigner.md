@@ -17,8 +17,8 @@ categories:
  
 tags:
   - storyboard
-  - narrativa interativa
-  - multimídia
+  - interactive narrative
+  - multimedia
   - ginga
   - ncl
   - qt
@@ -26,7 +26,7 @@ tags:
   - telemidia
   - puc-rio
   - isbdesigner
-  - tv digital
+  - digital tv
 
 navigation:
  - sobre

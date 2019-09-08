@@ -15,12 +15,12 @@ categories:
  - ferramentas
  
 tags:
-  - multimídia
+  - multimedia
   - ginga
   - ncl
   - telemidia
   - gingats
   - drupal
-  - suite de teste
+  - test suite
   - puc-rio
 ---

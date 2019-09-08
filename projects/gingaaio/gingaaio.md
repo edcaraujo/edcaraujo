@@ -18,7 +18,7 @@ tags:
   - virtual machine
   - vmware
   - eclipse
-  - multimídia
+  - multimedia
   - ncleclipse
   - linux
   - ginga

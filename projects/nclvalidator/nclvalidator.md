@@ -16,7 +16,7 @@ categories:
  
 tags:
   - java
-  - multimídia
+  - multimedia
   - validator
   - ncl
   - xml
