@@ -53,7 +53,7 @@ Atualmente, o projeto entra-se estacionado, mas com potencial de crescimento, es
 
 ## publicações
 
- - Eduardo Cruz Araujo e Luiz Fernando Gomes Soares (*2014*). **Designing iDTV Applications Through Interactive Storyboards**. In *Proceedings of the 20th Brazilian Symposium on Multimedia and the Web*. pp. 5–12. ACM. New York, NY, USA. [[doi](http://dx.doi.org/10.1145/2664551.2664572)] [[url](http://doi.acm.org/10.1145/2664551.2664572)]
+ - Eduardo Cruz Araujo e Luiz Fernando Gomes Soares (*2014*). **Designing iDTV Applications Through Interactive Storyboards**. In *Proceedings of the 20th Brazilian Symposium on Multimedia and the Web*. pp. 5–12. ACM. New York, NY, USA. [[url](http://doi.acm.org/10.1145/2664551.2664572)]
 
 ## desenvolvimento
 
