@@ -43,7 +43,7 @@ A ISB Designer é o resultado do projeto desenvolvido durante o meu mestrado no 
 
 Para isso, no projeto é definido a ideia de **storyboard interativo**, que lida com os eventos de **adaptação**, **intervenção** e **distribuição**, também detalhados neste trabalho, presentes nas narrativas interativas e não lineares. Dessa forma, foi possível inclusive a criação de storyboards interativo "*de papel*" (disponíveis logo mais para [download](#donwloads)), possibilitando a validação do modelo conceitual junto aos usuário finais sem qualquer comprometimento com relação à implementação, em um primeiro momento.
 
-Atualmente, o projeto entra-se estacionado, mas com potencial de crescimento, especialmente considerando a convergência de mídia, ou seja, o desenvolvimento de aplicações [transmidiáticas](https://pt.wikipedia.org/wiki/Transm%C3%ADdia), cujo conceito pode ser adaptado aos da ferramenta.
+Atualmente, o projeto encontra-se estacionado, mas com potencial de crescimento, especialmente considerando a convergência de mídia, ou seja, o desenvolvimento de aplicações [transmidiáticas](https://pt.wikipedia.org/wiki/Transm%C3%ADdia), cujo conceito pode ser adaptado aos da ferramenta.
 
 ## apresentações
 
