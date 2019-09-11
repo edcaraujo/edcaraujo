@@ -24,7 +24,7 @@ navigation:
 
 {% for category in site.categories %}
 {% if category[0] != "blog" %}
-<h3 id="{{ category[0] }}">{{ category[0] }} ({{ category[1].size }})</h3> 
+<h3 id="{{ category[0] | replace: " ","-" }}">{{ category[0] }} ({{ category[1].size }})</h3> 
 
 <ul>
 {% for post in category[1] %}

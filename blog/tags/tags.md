@@ -21,7 +21,7 @@ navigation:
 <h2 id="relacionados">relacionados ({{ site.posts.size }})</h2>
 
 {% for tag in site.tags %}
-<h3 id="{{ tag[0] }}">{{ tag[0] }} ({{ tag[1].size }})</h3> 
+<h3 id="{{ tag[0] | replace: " ","-" }}">{{ tag[0] }} ({{ tag[1].size }})</h3> 
 
 <ul>
 {% for post in tag[1] %}
