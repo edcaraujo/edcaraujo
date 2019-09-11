@@ -5,7 +5,7 @@ title: InterFatecs 2019
 
 categories: 
  - blog
- - rotina
+ - programacao-competitiva
 
 tags:
  - interfatecs
@@ -15,11 +15,13 @@ tags:
  - maratona de programação
 ---
 
-No dia 24/08/2019 aconteceu a fase final do InterFatecs 2019. Para quem não sabe, o InterFatecs ou Maratona de Programação InterFatecs é a segunda maior competição do país nos moldes do [ICPC](https://icpc.baylor.edu/). Neste ano, a fase final aconteceu em [Ourinho - SP](https://goo.gl/maps/ziHB3KhQhQd2jFDe9) com 170 alunos de 37 Fatecs de todo o estado, em que a Fatec de Ribeirão Preto garantiu **duas equipes no top 10**.
+No dia 24/08/2019 aconteceu a fase final do InterFatecs 2019. Para quem não sabe, o InterFatecs ou Maratona de Programação InterFatecs é a segunda maior competição do país nos moldes do [ICPC](https://icpc.baylor.edu/). Neste ano, a fase final aconteceu em [Ourinho - SP](https://goo.gl/maps/ziHB3KhQhQd2jFDe9) com 170 alunos de 37 Fatecs de todo o estado, em que a Fatec de Ribeirão Preto garantiu **duas equipes no `#Top10`**.
 
 ![InterFatecs 2019](/assets/images/posts/bba1e7cde3cac7061bdbdcfae17a8d3e.jpg)
 
-Na verdade, desde o seu primeiro ano de participação, a **Fatecs de Ribeirão Preto** mantém um resultado expressivo na competição. Este ano finalizou a competição com o `5º`, `7º`, `40º` e `44º` lugar. Vale lembrar que a competição este ano começou com cerca de 2,4 mil alunos de 73 Fatecs, o que demonstra excelente consistencia da instituição na competição. Para quem não sabe, **eu atuo com técnico voluntário** das equipes de Ribeirão Preto e fiquei bastante feliz com o resultado, mesmo este ano não podendo ser o técnico que essa galera merece :/ (mas promessa foram feitas e ano que vem o caneco volta para casa). 
+Partimos de [Ribeirão Preto - SP](https://goo.gl/maps/yG2n9ynWoSuVhvLZ8) bem cedo, por volta das 3am, em direção a [Ourinho - SP](https://goo.gl/maps/ziHB3KhQhQd2jFDe9). Havíamos selecionados cinco equipes para a fase final, mas como uma não pode comparecer, o que seria um mini ônibus, acabou virando uma van bem cheia (com Wi-Fi :p). Tirando as equipes que dormiram na Fatec Ourinhos, fomos uma das primeiras Fatecs a chegar. A competição seguiu a agenda: credenciamento, café da manhã, aquecimento, abertura, almoço, competição, lanche, premiação e volta pra casa. Ao todo foram quase 24h dedicadas a competição até voltarmos para casa com duas equipes no `#Top10` e outras duas focadas em subir no próximo ano. Ahhhh, além de uma questão problemática cuja dicurssão durou boa parte de volta.
+
+Na verdade, desde o seu primeiro ano de participação, 2017, a **Fatecs de Ribeirão Preto** mantém um resultado expressivo na competição. Este ano finalizou a competição com o `5º`, `7º`, `40º` e `44º` lugar. Vale lembrar que a competição este ano começou com cerca de **2,4 mil** alunos de **73 Fatecs**, o que demonstra uma excelente consistencia da instituição na competição. Para quem não sabe, **eu atuo com técnico voluntário** das equipes de Ribeirão Preto e fiquei bastante feliz com o resultado, mesmo este ano não podendo ser o técnico que essa galera merece :/ (mas promessa foram feitas e ano que vem o caneco volta para casa). 
 
 ## Equipes
 
@@ -70,13 +72,13 @@ A prova contou com 9 questões e houve solução para todas elas. As equipes cam
 
 Bom, no final, as 5 melhores equipes foram:
 
-| **#**  | **EQUIPE**                                 | **UNIDADE**              | INTEGRANTES                                                |
-| ------ | ------------------------------------------ | ------------------------ | ---------------------------------------------------------- |
-| 1º     | Renegades                                  | Fatec Sorocaba           | Gabriel Felicidade, Guilherme Sernajoto e Rafael de Souza. |
-| 2º     | Jumentus                                   | Fatec Ourinhos           | André Mendes, Flaviano da Cruz e Guilherme Moreira .       |
-| 3º     | Filhos de Hermes                           | Fatec Bauru              | Alisson Henrique, Barbosa de Vasconcellos e Braidon Alves  |
-| 4º     | Pastor Edson. Aleluia, irmão!              | Fatec Mogi das Cruzes    | Cauan Lima, Marcelo Correa Filho e Yehoshua de Oliveira.   |
-| **5º** | **Python acima de tudo, C acima de todos** | **Fatec Ribeirão Preto** | **André Pavanelli, Eric de Souza e Júlio Yoshimine.**      |
+| **#**  | **EQUIPE**                                 | **UNIDADE**              | SCORE | INTEGRANTES                                                |
+| ------ | ------------------------------------------ | ------------------------ | ----- | ---------------------------------------------------------- |
+| 1º     | Renegades                                  | Fatec Sorocaba           |       | Gabriel Felicidade, Guilherme Sernajoto e Rafael de Souza. |
+| 2º     | Jumentus                                   | Fatec Ourinhos           |       | André Mendes, Flaviano da Cruz e Guilherme Moreira .       |
+| 3º     | Filhos de Hermes                           | Fatec Bauru              |       | Alisson Henrique, Barbosa de Vasconcellos e Braidon Alves  |
+| 4º     | Pastor Edson. Aleluia, irmão!              | Fatec Mogi das Cruzes    |       | Cauan Lima, Marcelo Correa Filho e Yehoshua de Oliveira.   |
+| **5º** | **Python acima de tudo, C acima de todos** | **Fatec Ribeirão Preto** |       | **André Pavanelli, Eric de Souza e Júlio Yoshimine.**      |
 
 Um detalhe interessante é que mais de 50% das submissões foram em `python` (53%) e o índice de equipes que zeraram foi mínimo. A segunda maior linguagem utilizada foi o `C/C++` (33%), seguida do `Java` (15%). Isso mostra o cenário bem dominante do `python`, que acredito ser a tendência (também) nesse ambiente de programação competitiva. Para quem não está acostumado, a taxa de submissão seguiu o padrão: picos no início (10-20min) e término (290-300min) da competição. Uma dica importante é não esquecer de adaptar as estratégias e comportamento da equipe conforme os minutos vão avançando, daí a necesside de periodicamente reavaliar o plano de ação (ordem de resolução dos problemas), considerando o *status* da equipe (exaustão), tempo de competição (min) e o plano de ação utilizado pelas outras equipes. 
 
