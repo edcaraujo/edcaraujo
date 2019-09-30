@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  Novas mudanças à frente
+title: Novas mudanças à frente
 
 categories: 
  - blog

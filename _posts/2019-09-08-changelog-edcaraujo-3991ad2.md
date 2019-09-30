@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title:  Changelog • edcaraujo (3991ad2)
+title: Changelog • edcaraujo (3991ad2)
 
 categories: 
  - blog
