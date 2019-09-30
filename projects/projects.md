@@ -19,9 +19,9 @@ Aqui você encontra algumas das ferramentas e projetos que estive envolvido nos 
 <h2 id="ferramentas">ferramentas ({{ list.size }})</h2>
 
 {% for item in list %}
-<h3 id="{{ item.title }}">{{ item.title }}</h3>
+<h3 id="{{ item.title }}">{{ item.title }}</h3> 
 
-<p><strong>{{ item.subtitle }}</strong></p>
+<p><strong>{{ item.subtitle }}</strong> {% if item.highlight %}<code class="highlight-rouge">{{ item.highlight }}</code>{% endif %}</p>
 
 <p>
   <i class="far fa-calendar-alt"></i> <em>{{ item.duration }}</em> • <i class="fas fa-tags"></i> Tags:

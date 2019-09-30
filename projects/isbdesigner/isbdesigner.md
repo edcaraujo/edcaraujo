@@ -3,6 +3,8 @@ layout: project
 
 permalink: /projetos/isbdesigner/
 
+highlight: updated
+
 title: isbdesigner
 subtitle: "ISB Designer: a tool for design interactive storyboard"
 
@@ -69,10 +71,10 @@ Em caso de dúvidas, entre [em contato](/#contato).
 
 ## donwloads
 
-- [2012.04.04 - Interactive Storyboard (*Sequencial Model*)](/assets/downloads/projects/isbdesigner/9f522044dac8534b50191c3f80284129.zip)
-- [2012.04.04 - Interactive Storyboard (*Adaptative Model*)](/assets/downloads/projects/isbdesigner/0db73e1876e1890da238deb5a12cc165.zip)
-- [2012.04.04 - Interactive Storyboard (*Distributive Model*)](/assets/downloads/projects/isbdesigner/6e53384f2a124639c06638d24f89dd00.zip)
-- [2012.01.16 - Logos](/assets/downloads/projects/isbdesigner/ac2b617435903b688af3f43fa0c122bf.zip)
+- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Sequencial Model*).  <i class="fas fa-download"></i> [[zip](/assets/downloads/projects/isbdesigner/9f522044dac8534b50191c3f80284129.zip)]
+- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Adaptative Model*).  <i class="fas fa-download"></i> [[zip](/assets/downloads/projects/isbdesigner/0db73e1876e1890da238deb5a12cc165.zip)]
+- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Distributive Model*).  <i class="fas fa-download"></i> [[zip](/assets/downloads/projects/isbdesigner/6e53384f2a124639c06638d24f89dd00.zip)]
+- <i class="far fa-calendar-alt"></i> 2012.01.16 • Logos. <i class="fas fa-download"></i> [[zip](/assets/downloads/projects/isbdesigner/ac2b617435903b688af3f43fa0c122bf.zip)]
 
 ## releases
 
