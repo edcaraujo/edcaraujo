@@ -65,7 +65,7 @@ Atualmente, o projeto encontra-se estacionado, mas com potencial de crescimento,
 
 ## desenvolvimento
 
-O código está disponível no [GitHub](https://github.com/edcaraujo/isbdesigner-deprecated) e foi desenvolvido em `C++` apoiado no *framwork* [Qt](https://www.qt.io/) para desenvolvimento de interfaces gráficas e portabilidade do projeto para multiplas plataformas.
+O código está disponível no [GitHub](https://github.com/edcaraujo/isbdesigner-deprecated) e foi desenvolvido em `C++` apoiado no *framework* [Qt](https://www.qt.io/) para desenvolvimento de interfaces gráficas e portabilidade do projeto para multiplas plataformas.
 
 Em caso de dúvidas, entre [em contato](/#contato).
 
