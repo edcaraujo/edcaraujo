@@ -13,7 +13,7 @@ image: /assets/images/projects/cpricons/542849f939060eb204dd4b3ff98e5c53.png
 
 excerpt: "Pacote de ícones utilizado pelos NCL Composer para representar as entidades da NCL."
 
-site: "https://edcaraujo.com/live/cpricons/"
+site: "https://edcaraujo.com/demo/cpricons/"
 
 categories: 
  - projects
