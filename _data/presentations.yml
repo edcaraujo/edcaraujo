@@ -1,25 +1,165 @@
+- title: "Aprimorando habilidades de desenvolvimento com programação competitiva"
+  author: "Eduardo Cruz Araujo"
+  date: "2019.09.19"
+  location: "GDG Ribeirão Preto, Faculdade Anhanguera, Ribeirão Preto - SP, Brasil"
+  category: "talks"
+  tags: [competitive programing, anhaguera, gdg]
+
+- title: "Treinamento InterFatecs’19"
+  author: "Eduardo Cruz Araujo"
+  date: "2019.05.04"
+  location: "Fatec, Ribeirão Preto - SP, Brasil"
+  category: "class"
+  tags: [interfatecs, competitive programing, fatec]
+
+- title: "I Mini Maratona de Programação da UNAERP"
+  author: "Eduardo Cruz Araujo"
+  date: "2018.10.30"
+  location: "3ª Semana de Engenharia e Tecnologia da Universidade de Ribeirão Preto, UNAERP, Ribeirão Preto - SP, Brasil"
+  category: "talks"
+  tags: [competitive programing, unaerp]
+
+- title: "TV Digital Interativa se faz com Ginga-NCL"
+  author: "Eduardo Cruz Araujo"
+  date: "2017.09.20"
+  location: "II Jornada de Tecnologia, Fatec, Ribeirão Preto - SP, Brasil"
+  file: "/assets/presentations/d980b6693594617d559488eecf8e1f71.pdf"
+  category: "talks"
+  tags: [interfatecs, competitive programing, fatec]
+
+- title: "Programação Competitiva: A arte de conquistar balões"
+  author: "John Lennon Barbosa, Welton Antonio Gomes, Wesckeley de Freitas Martins e Eduardo Cruz Araujo"
+  date: "2017.10.19"
+  location: "TechTalks, Fatec, Ribeirão Preto - SP, Brasil"
+  file: "/assets/presentations/497c2dc3f74e2e3f5a1d78d1e60cdf8c.pdf"
+  category: "talks"
+  tags: [interfatecs, competitive programing, fatec]
+
+- title: "Treinamento InterFatecs’17"
+  author: "Eduardo Cruz Araujo"
+  date: "2017.05.01"
+  location: "Fatec, Ribeirão Preto - SP, Brasil"
+  category: "class"
+  tags: [interfatecs, competitive programing, fatec]
+
+- title: "Geração Automática de Templates de Documentos Hipermídia a partir Exemplos de Aplicações"
+  author: "Eduardo Cruz Araujo"
+  date: "2016.03.11"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/6fd1be12d3e013df0bc72a8787d3488f.pdf"
+  category: "class"
+  tags: [multimedia, template, hypermedia, ncl, telemidia, puc-rio, authoring]
+
+- title: "Automatic Template Extraction from [a single] Hypermedia Document"
+  author: "Eduardo Cruz Araujo"
+  date: "2015.12.02"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/ec5b18096d12c056f470ca1f18975f38.pdf"
+  category: "class"
+  tags: [multimedia, template, hypermedia, ncl, telemidia, puc-rio, authoring]
+
+- title: "Automatic and Semiautomatic Extraction of Hypermedia Document Templates"
+  author: "Eduardo Cruz Araujo"
+  date: "2015.11.16"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/599d505788744e08377e3d8a4e127690.pdf"
+  category: "class"
+  tags: [multimedia, template, hypermedia, ncl, telemidia, puc-rio, authoring]
+
+- title: "Aperfeiçoando a Autoria de Documentos Multimídia através de Estatísticas de Autoria e Execução"
+  author: "Eduardo Cruz Araujo"
+  date: "2015.06.17"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/8a170b5ff25b70680c77a1e0bca65035.pdf"
+  category: "class"
+  tags: [multimedia, ncl, telemidia, puc-rio, authoring]
+
+- title: "Aperfeiçoando a Autoria de Documentos Multimídia através de Estatísticas de Autoria"
+  author: "Eduardo Cruz Araujo"
+  date: "2015.05.13"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/05de6f37dd52d3ab6bcc1cc9d737b3c9.pdf"
+  category: "class"
+  tags: [multimedia, ncl, telemidia, puc-rio, authoring]
+
 - title: "Progetando Aplicações para TVDi através de Storyboards Interativos"
   author: "Eduardo Cruz Araujo e Luiz Fernando Gomes Soares"
   date: "2014.11.19"
   location: "Brazilian Symposium on Multimedia and the Web (WebMedia '14), João Pessoa - PB, Brasil"
-  file: "/assets/downloads/projects/isbdesigner/b08bb145ab7508852bf3a3d9d38f4427.pdf"
+  file: "/assets/presentations/b08bb145ab7508852bf3a3d9d38f4427.pdf"
   category: "conference"
   tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]
-  
+
+- title: "Requisitos para especificação, execução e autoria de uma aplicação transmidiádica"
+  author: "Eduardo Cruz Araujo"
+  date: "2014.03.09"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/a9d9edd61d4d5719d769f996929e20c1.pdf"
+  category: "class"
+  tags: [transmedia, authoring, multimedia, ncl, puc-rio]
+
+- title: "Soluções de Middlewares para Aplicações Transmidiáticas: estudo de caso na interoperabilidade de serviços"
+  author: "Eduardo Cruz Araujo"
+  date: "2013.12.02"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/d75ca0cac0f59b33d2c4b20416bff835.pdf"
+  category: "class"
+  tags: [transmedia, middleware, multimedia, ncl, puc-rio]
+
+- title: "NCL e NCL Composer como uma ferramenta de apoio ao aprendizado de raciocínio computacional"
+  author: "Eduardo Cruz Araujo"
+  date: "2013.11.26"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/1167e83b47ba76d65cc1de7d2660f6ec.pdf"
+  category: "class"
+  tags: [computational thinking, ihc,nclcomposer, authoring, multimedia, ncl, puc-rio]
+
+- title: "Estendendo o middleware SDDL para permitir a execução de aplicações transmidiáticas"
+  author: "Eduardo Cruz Araujo"
+  date: "2013.09.30"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/bd240ef8b2453374edfdbd206342527c.pdf"
+  category: "class"
+  tags: [transmedia, sddl, middleware, multimedia, ncl, puc-rio]
+
+- title: "Avaliação (inicial) do NCL Composer a partir dos conceitos de ISM e algumas dimensões"
+  author: "Eduardo Cruz Araujo"
+  date: "2013.09.24"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/aa484710c685f5c412ff84ee9d4880db.pdf"
+  category: "class"
+  tags: [ihc, evaluation, ism, multimedia, ncl, puc-rio]
+
+- title: "Is NCL ready for Transmedia?"
+  author: "Eduardo Cruz Araujo"
+  date: "2013.06.05"
+  location: "Tópicos em Hipertexto e Multimídia IV (INF2893), Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/017d3aec3852b2605b7251df3a3b4429.pdf"
+  category: "class"
+  tags: [transmedia, multimedia, ncl, telemidia, puc-rio]
+
 - title: "ISB Designer: a tool for design interactive storyboard"
   author: "Eduardo Cruz Araujo"
   date: "2013.04.24"
   location: "Tópicos em Hipertexto e Multimídia IV (INF2893), Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
-  file: "/assets/downloads/projects/isbdesigner/7b3624c0d2cd6c7d3e5a11e6b9743381.pdf"
+  file: "/assets/presentations/7b3624c0d2cd6c7d3e5a11e6b9743381.pdf"
   category: "class"
   tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]
+
+- title: "Abstrações visuais para ferramentas de autoria de documentos NCL baseadas nas dimensões cognitivas"
+  author: "Eduardo Cruz Araujo"
+  date: "2012.05.15"
+  location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
+  file: "/assets/presentations/b2f87937103923a2820d998a9972fa4b.pdf"
+  category: "class"
+  tags: [cognitive dimensions ,authoring, multimedia, ncl, telemidia, puc-rio]
 
 - title: "Progetando Aplicações para TVDi através de Storyboards Interativos"
   author: "Eduardo Cruz Araujo"
   date: "2012.03.21"
   location: "Departamento de Informática, PUC-Rio, Rio de Janeiro - RJ, Brasil"
   category: "class"
-  file: "/assets/downloads/projects/isbdesigner/553ca7ee3b635781180ec363b76568ba.pdf"
+  file: "/assets/presentations/553ca7ee3b635781180ec363b76568ba.pdf"
   tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]
 
 - title: "Progetando Aplicações para TVDi através de Storyboards Interativos"
@@ -27,5 +167,13 @@
   date: "2012.02.28"
   location: "RioContentMarket '12, Rio de Janeiro - RJ, Brasil"
   category: "talks"
-  file: "/assets/downloads/projects/isbdesigner/b6959979e16cd87dfbe6e9f0bc40fe26.pdf"
+  file: "/assets/presentations/b6959979e16cd87dfbe6e9f0bc40fe26.pdf"
   tags: [storyboard, interactive narrative, multimedia, ginga, ncl, qt, c++, telemidia, puc-rio, isbdesigner, digital tv, authoring]
+
+- title: "Suíte de Testes de Conformidade para o Ginga-NCL"
+  author: "Eduardo Cruz Araujo"
+  date: "2011.10.04"
+  location: "Brazilian Symposium on Multimedia and the Web (WebMedia '11), Florianópolis - SC, Brasil"
+  file: "/assets/presentations/c7797ea12dae5286a237c642f53ab966.pdf"
+  category: "conference"
+  tags: [test suite, gingats, multimedia, ncl, ginga, telemidia, puc-rio]
