@@ -14,7 +14,7 @@ navigation:
 
 <ul>
 {% for tag in site.tags %}
-  <li><a href="#{{ tag[0] }}">{{ tag[0] }}</a></li>
+  <li><a href="#{{ tag[0] | replace: " ","-" }}">{{ tag[0] }}</a></li>
 {% endfor %}
 </ul>
 
