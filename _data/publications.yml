@@ -10,7 +10,7 @@
   author: "Roberto Gerson Azevedo, Eduardo Cruz Araujo, Bruno Lima, Luiz Fernando Soares e Marcelo F. Moreno"
   date: "2014"
   publication: "Multimedia Tools Applications"
-  url: "http://dx.doi.org/10.1007/s11042-012-1216-8/"
+  url: "https://doi.org/10.1007/s11042-012-1216-8"
   category: "journal"
   tags: [c++, qt, authoring, multimedia, ginga, ncl, nclcomposer, telemidia, puc-rio, digital tv, plugins]
 
@@ -26,7 +26,7 @@
   author: "Roberto Gerson de Albuquerque Azevedo, Rodrigo Costa Mesquita Santos, Eduardo Cruz Araujo, Luiz Fernando Gomes Soares e Carlos de Salles Soares Neto"
   date: "2013"
   publication: "Proceedings of The ACM symposium on Document engineering (DocEng '13). ACM, New York, NY, USA, 205-214"
-  url: "http://doi.acm.org/10.1145/2494266.2494283/"
+  url: "http://doi.acm.org/10.1145/2494266.2494283"
   category: "conference"
   tags: [multimedia, ncl, telemidia, puc-rio, template, tal, authoring]
 
@@ -35,7 +35,6 @@
   date: "2011"
   publication: "Departamento de Informática, PUC-Rio"
   location: "Rio de Janeiro - RJ, Brasil"
-  url: "http://doi.acm.org/10.1145/2494266.2494283/"
   category: "technical report"
   tags: [multimedia, ncl, telemidia, puc-rio, test suite, ginga]
 
