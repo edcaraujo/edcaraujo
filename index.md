@@ -9,17 +9,18 @@ navigation:
  - contato
 ---
 
-Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com) e sou de [São Luís - MA](https://en.wikipedia.org/wiki/S%C3%A3o_Lu%C3%ADs,_Maranh%C3%A3o), Brasil. Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), Brasil.
+Olá, mundo! Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com), apaixonado por tecnologia, pesquisa, *problem solving* e programação competitiva.
 
-Hoje, atuo como **Coordenador de TI** na [Fundação Hospital Santa Lydia](http://www.hospitalsantalydia.com.br/), apoiando, junto com a equipe, cerca de **60000 atendimentos** mensais, dentre emergências, internações e cirurgias, somados ainda o suporte à gestão administrativa da fundação. Além disso, estou sempre envolvido em alguns projetos *freelancer* e no trabalho voluntário de divulgação e ensino de programação competitiva na região.
+Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde atuo como  **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação. Além disso, estou sempre envolvido em alguns projetos *freelancer* e um fascinado por programação competitiva, participando de diversos trabalhos voluntários na divulgação e ensino do tema na região. 
 
-Eu recebi o título de **Mestre** (Msc.) em Informática pela [PUC-Rio](http://www.puc-rio.br/) em 2012, mesmo ano em que iniciei o **Doutorado** (Ph.D.) em Informática também pela PUC-Rio (orientado pelo **†** [Prof. Luiz Fernando Gomes Soares](http://www.telemidia.puc-rio.br/~lfgs/) e [Profa. Simone Diniz Junqueira Barbosa](http://www-di.inf.puc-rio.br/~simone/)). Desde 2009 trabalhei como **Pesquisador** e **Analista de Sistemas** no [Lab. TeleMídia](http://www.telemidia.puc-rio.br/) da PUC-Rio, em que contribuí na especificação do Sistema Brasileiro de TV Digital e na Recomendação ITU-T para serviços IPTV.
+Um pouco antes, recebi o título de **Mestre (Msc.)** em Informática pela PUC-Rio em 2012, mesmo ano em que iniciei o Doutorado (Ph.D.) em Informática também pela PUC-Rio. Durante esse período, trabalhei como **Pesquisador** e **Analista de Sistemas** no [Lab. TeleMídia](http://www.telemidia.puc-rio.br/) da [PUC-Rio](https://www.puc-rio.br/), em que contribuí na especificação do Sistema Brasileiro de TV Digital e na Recomendação ITU-T para serviços IPTV.
 
 ## áreas de interesse
 
-- Gestão e cuidados hopitalares aliados à tecnologia (e.g. *Data Science*, *Blockchain* e *IoT*)
+- Inovação e Gestão de tecnológica
+- *Business Intelligence*
+- Sistemas Multimídia 
 - Interação Humano-Computador
-- Sistemas Multimídia
 - Programação Competitiva
 
 ## curriculum
@@ -48,11 +49,20 @@ Ribeirão Preto - SP, Brasil.
 
 ### profissional
 
+**Universidade Paulista**  
+Av. Carlos Consoni, 10, Jardim Canadá  
+CEP 14024-2701  
+Ribeirão Preto - SP, Brasil.
+
+<i class="fas fa-phone fa-lg"></i> +55 16 3602-6700  
+<i class="fas fa-envelope fa-lg"></i> [eduardo.araujo@docentes.unip.br](mailto:eduardo.araujo@docentes.unip.br)  
+<i class="fas fa-home fa-lg"></i> [https://www.unip.br/](https://www.unip.br/)
+
 **Fundação Hospital Santa Lydia**  
 Rua Tamandaré, 434, Campos Elíseos  
 CEP 14085-070  
 Ribeirão Preto - SP, Brasil.
 
 <i class="fas fa-phone fa-lg"></i> +55 16 3605-4852  
-<i class="fas fa-envelope fa-lg"></i> [edcaraujo@hospitalsantalydia.com.br](mailto:edcaraujo@hospitalsantalydia.com.br)  
+<i class="fas fa-envelope fa-lg"></i> [ecaraujo@hospitalsantalydia.com.br](mailto:edcaraujo@hospitalsantalydia.com.br)  
 <i class="fas fa-home fa-lg"></i> [http://hospitalsantalydia.com.br/](http://hospitalsantalydia.com.br/)
