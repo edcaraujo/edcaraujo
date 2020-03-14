@@ -17,7 +17,7 @@ Um pouco antes, recebi o título de **Mestre (Msc.)** em Informática pela PUC-R
 
 ## áreas de interesse
 
-- Inovação e Gestão de tecnológica
+- Inovação e Gestão de tecnologia
 - *Business Intelligence*
 - Sistemas Multimídia 
 - Interação Humano-Computador
