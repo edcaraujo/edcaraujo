@@ -53,7 +53,7 @@ Atualmente, o projeto encontra-se estacionado, mas com potencial de crescimento,
   | where_exp: "item", "item.tags contains 'isbdesigner'"
   | sort: "date" | reverse %}
 
-{% include content-data.html %}
+{% include content-documents.html %}
 
 ## publicações
 
@@ -61,7 +61,7 @@ Atualmente, o projeto encontra-se estacionado, mas com potencial de crescimento,
   | where_exp: "item", "item.tags contains 'isbdesigner'"
   | sort: "date" | reverse %}
 
-{% include content-data.html %}
+{% include content-documents.html %}
 
 ## desenvolvimento
 

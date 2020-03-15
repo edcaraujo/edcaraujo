@@ -22,6 +22,6 @@ navigation:
 
 <h2 id="{{ n }}">{{ n }} ({{ list.size }})</h2>
 
-{% include content-data.html %}
+{% include content-documents.html %}
 
 {% endfor %}
