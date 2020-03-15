@@ -69,7 +69,7 @@ O código está disponível no [GitHub](https://github.com/edcaraujo/isbdesigner
 
 Em caso de dúvidas, entre [em contato](/#contato).
 
-## donwloads
+## downloads
 
 - <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Sequencial Model*).  <i class="fas fa-download"></i> • [[zip](/assets/downloads/projects/isbdesigner/9f522044dac8534b50191c3f80284129.zip)]
 - <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Adaptative Model*).  <i class="fas fa-download"></i> • [[zip](/assets/downloads/projects/isbdesigner/0db73e1876e1890da238deb5a12cc165.zip)]
