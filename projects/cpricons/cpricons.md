@@ -11,13 +11,13 @@ subtitle: "CPR Icons: Pacote de ícones do NCL Composer"
 duration: 2017 - 2017
 image: /assets/images/projects/cpricons/542849f939060eb204dd4b3ff98e5c53.png
 
-excerpt: "Pacote de ícones utilizado pelos NCL Composer para representar as entidades da NCL."
+excerpt: "Pacote de ícones utilizado pelos NCL Composer para representar as entidades da NCL e outras funcionalidades da ferramenta."
 
 site: "https://edcaraujo.com/demo/cpricons/"
 
 categories: 
- - projects
- - tools
+  - projects
+  - tools
  
 tags:
   - icon
@@ -29,7 +29,9 @@ tags:
 
 ## sobre
 
-{% include content-todo.html  %}
+O projeto que nasceu a partir do [nclcomposer](/projetos/nclcomposer/) como meio de formalizar e padronizar os ícones da ferramenta. Assim, não é por acaso que suas versões normalmente acompanham as versões do [nclcomposer](/projetos/nclcomposer/), tendo o pacote de ícones atualizado juntamente com as releases da ferramenta.
+
+Em especial, o [cpricon](/projetos/cpricon/) define ícones, ou seja, representações visuais para boa parte dos elementos da NCL, que podem ser reutilizados ou servir de base para outras ferramentas, apresentações, projetos etc.
 
 ## releases
 
