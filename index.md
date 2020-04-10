@@ -55,7 +55,7 @@ CEP 14024-2701
 Ribeirão Preto - SP, Brasil.
 
 <i class="fas fa-phone fa-lg"></i> +55 16 3602-6700  
-<i class="fas fa-envelope fa-lg"></i> [eduardo.araujo@docente.unip.br](mailto:eduardo.araujo@docentes.unip.br)  
+<i class="fas fa-envelope fa-lg"></i> [eduardo.araujo@docente.unip.br](mailto:eduardo.araujo@docente.unip.br)  
 <i class="fas fa-home fa-lg"></i> [https://www.unip.br/](https://www.unip.br/)
 
 **Fundação Hospital Santa Lydia**  
