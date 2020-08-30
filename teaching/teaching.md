@@ -6,6 +6,7 @@ permalink: /ensino/
 title: ensino
 
 navigation:
+ - 2020.2
  - 2020.1
 ---
 
@@ -30,8 +31,6 @@ navigation:
     <a>{{ tag }}</a> {% if tag != tags.last %}•{% endif %}
   {% endfor %}
 </p>
-
-<p><i class="fas fa-quote-left"></i> <em>{{ item.resume }}</em></p>
 
 <i class="fas fa-link"></i>  [Mais detalhes…]({{ item.url }})
 {% endfor %}
