@@ -9,7 +9,7 @@ navigation:
  - contato
 ---
 
-Olá, mundo! Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com), apaixonado por tecnologia, pesquisa, *problem solving* e programação competitiva.
+Olá, mundo! Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com), apaixonado por tecnologia, pesquisa e programação competitiva.
 
 Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde atuo como  **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação. Além disso, estou sempre envolvido em alguns projetos *freelancer* e um fascinado por programação competitiva, participando de diversos trabalhos voluntários na divulgação e ensino do tema na região. 
 
@@ -49,15 +49,6 @@ Ribeirão Preto - SP, Brasil.
 
 ### profissional
 
-**Universidade Paulista**  
-Av. Carlos Consoni, 10, Jardim Canadá  
-CEP 14024-2701  
-Ribeirão Preto - SP, Brasil.
-
-<i class="fas fa-phone fa-lg"></i> +55 16 3602-6700  
-<i class="fas fa-envelope fa-lg"></i> [eduardo.araujo@docente.unip.br](mailto:eduardo.araujo@docente.unip.br)  
-<i class="fas fa-home fa-lg"></i> [https://www.unip.br/](https://www.unip.br/)
-
 **Fundação Hospital Santa Lydia**  
 Rua Tamandaré, 434, Campos Elíseos  
 CEP 14085-070  
@@ -66,3 +57,12 @@ Ribeirão Preto - SP, Brasil.
 <i class="fas fa-phone fa-lg"></i> +55 16 3605-4852  
 <i class="fas fa-envelope fa-lg"></i> [ecaraujo@hospitalsantalydia.com.br](mailto:edcaraujo@hospitalsantalydia.com.br)  
 <i class="fas fa-home fa-lg"></i> [http://hospitalsantalydia.com.br/](http://hospitalsantalydia.com.br/)
+
+**Universidade Paulista**  
+Av. Carlos Consoni, 10, Jardim Canadá  
+CEP 14024-2701  
+Ribeirão Preto - SP, Brasil.
+
+<i class="fas fa-phone fa-lg"></i> +55 16 3602-6700  
+<i class="fas fa-envelope fa-lg"></i> [eduardo.araujo@docente.unip.br](mailto:eduardo.araujo@docente.unip.br)  
+<i class="fas fa-home fa-lg"></i> [https://www.unip.br/](https://www.unip.br/)

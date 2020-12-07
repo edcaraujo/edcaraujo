@@ -24,7 +24,7 @@
   institution: "Universidade Paulista - UNIP"
   year: "2020.1"
   schedule: "quinta-feira, 19h:10 - 22h:00"
-  location: "Remoto (COVID-19)"
+  location: "Laboratório #1 / Remoto (COVID-19)"
   url: "https://classroom.google.com/"
   resume: "Implementar Web Standards como a semântica do XML e separação entre formatação e conteúdo. Usar folhas de estilos em cascata (estilos CSS) para criar páginas mais flexíveis, mais leves, e controlar o seu aspecto gráfico com maior precisão e com maior facilidade na correção de erros. Ao final deste, o aluno entenderá os conceitos fundamentais do trabalho com os Web Standards e será capaz de implementar HTML Responsivo, com o uso do framework Bootstrap."
   tags: [unip, ciência da computação, pwd, web, html5, css3, bootstrap, vscode]
@@ -34,7 +34,7 @@
   institution: "Universidade Paulista - UNIP"
   year: "2020.1"
   schedule: "terça-feira, 19h:10 - 22h:00"
-  location: "Remoto (COVID-19)"
+  location: "Laboratório #2 / Remoto (COVID-19)"
   url: "https://classroom.google.com/"
   resume: "Colocar os alunos em contato direto com o ambiente mobile de modo que possam executar desenvolvimentos de projetos com o uso da ferramenta visual (MIT - App Inventor 2) para suprir as necessidades dessa área da computação, familiarizando-os com a realidade multidisciplinar dos trabalhos profissionais realizados em empresas da área de computação."
   tags: [unip, ciência da computação, pdm, mobile, appinventor]
@@ -44,7 +44,7 @@
   institution: "Universidade Paulista - UNIP"
   year: "2020.1"
   schedule: "sexta-feira, 19h:10 - 22h:00"
-  location: "Remoto (COVID-19)"
+  location: "Sala 304A / Remoto (COVID-19)"
   url: "https://classroom.google.com/"
   resume: "Compreender os principais conceitos da Interface humano-computador e conhecer as formas de aplicá-los no desenvolvimento e avaliação de projetos de interface. Diferenciar técnicas e métricas mais adequadas a cada tipo de projeto e de interface desenvolvida, tendo em vista as demandas mercadológicas."
   tags: [unip, ciência da computação, ihc, interface, interação, usabilidade, avaliação, design, prototipação]
