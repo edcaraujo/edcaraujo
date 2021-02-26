@@ -1,3 +1,13 @@
+- title: "Linguagem de Programação Orientada a Objetos"
+  code: "POO"
+  institution: "Universidade Paulista - UNIP"
+  year: "2021.1"
+  schedule: "sexta-feira, 19h:10 - 22h:00"
+  location: "Remoto (COVID-19)"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Apresentar a orientação a objetos utilizando uma linguagem de programação, bem como uma ferramenta para a implementação de software."
+  tags: [unip, ciência da computação, poo, java, swing, netbeans]
+
 - title: "Aplicações de Linguagem de Programação Orientada a Objetos"
   code: "POO"
   institution: "Universidade Paulista - UNIP"
@@ -7,7 +17,6 @@
   url: "https://classroom.google.com/"
   resume: "Utilizar a orientação a objetos, através de uma linguagem de programação, bem como uma ferramenta visual para a implementação de software e respectivo banco de dados."
   tags: [unip, ciência da computação, poo, mvc, java, swing, sql, postgresql, netbeans, hibernate]
-
 
 - title: "Lógica de Programação e Algoritmos"
   code: "LPA"
