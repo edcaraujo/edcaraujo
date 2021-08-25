@@ -10,8 +10,6 @@ layout: default
       <span><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished"><i class="far fa-calendar-alt"></i> {% include content-date.html %}</time></span> • <span><span itemprop="author" itemscope itemtype="http://schema.org/Person"><span class="p-author h-card" itemprop="name"></span><i class="fas fa-user"></i> {{ page.author | default: "edcaraujo" }}</span></span></span>
     </p>
 
-    <hr/>
-
     <p class="post-meta">
       <strong><i class="fas fa-layer-group"></i> Categorias:</strong>
       {% assign categories = page.categories | sort %}
