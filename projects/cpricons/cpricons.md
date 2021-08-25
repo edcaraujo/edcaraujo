@@ -3,8 +3,6 @@ layout: project
 
 permalink: /projetos/cpricons/
 
-highlight: updated
-
 title: cpricons
 subtitle: "CPR Icons: Pacote de ícones do NCL Composer"
 

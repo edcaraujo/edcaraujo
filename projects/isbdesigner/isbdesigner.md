@@ -3,8 +3,6 @@ layout: project
 
 permalink: /projetos/isbdesigner/
 
-highlight: updated
-
 title: isbdesigner
 subtitle: "ISB Designer: a tool for design interactive storyboard"
 
