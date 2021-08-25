@@ -1,7 +1,7 @@
 ---
 layout: project
 
-permalink: /projetos/gingancl/
+permalink: /projetos/gingats/
 
 title: gingats
 subtitle: "Ginga-NCL Conformance Testing Portal"
