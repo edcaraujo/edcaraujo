@@ -6,6 +6,7 @@ permalink: /ensino/
 title: ensino
 
 navigation:
+ - 2021.2
  - 2021.1
  - 2020.2
  - 2020.1
