@@ -23,7 +23,7 @@ tags:
 
 Há alguns dias a versão `0.3.0` do [NCL Composer](http://composer.telemidia.puc-rio.br/) está disponível para [download](http://composer.telemidia.puc-rio.br/en/download). Essa versão traz várias melhorias, especialmente no plugin da **Visão Estrutural**. As mudanças na Visão Estrutural vão desde elementos da interface até uma completa restruturação do código.
 
-![Nova Visão Estrutural no NCL Composer](/assets/images/posts/ad70e185481cb44b00eb66e29f336970.png)
+![Nova Visão Estrutural no NCL Composer](/images/posts/ad70e185481cb44b00eb66e29f336970.png)
 
 *Figura 1 - Nova Visão Estrutural no NCL Composer*
 
@@ -36,11 +36,11 @@ Além de todas as funcionalidades da versão anterior, a nova Visão Estrutural 
 
 ## Antes e depois
 
-![Visão Estrutural (0.2.1) do NCL Composer](/assets/images/posts/a0b3e33f7e0ccc813b7b8ec157e0aa99.png)
+![Visão Estrutural (0.2.1) do NCL Composer](/images/posts/a0b3e33f7e0ccc813b7b8ec157e0aa99.png)
 
 *Figura 2 - Visão Estrutural (0.2.1) no NCL Composer*
 
-![Visão Estrutural (0.3.0) do NCL Composer](/assets/images/posts/129fe989c18a3ae95720b17918973a6e.png)
+![Visão Estrutural (0.3.0) do NCL Composer](/images/posts/129fe989c18a3ae95720b17918973a6e.png)
 
 *Figura 3 - Visão Estrutural (0.3.0) no NCL Composer*
 
@@ -53,11 +53,11 @@ Existem ainda outras novidades, então, para entender melhor as mudanças entre 
 
 ### Adicionando entidades
 
-![Adicionando Entidades com a Visão Estrutural (0.2.1) do NCL Composer](/assets/images/posts/12e6548eefdcf0389c9b37e1fdaae90a.gif)
+![Adicionando Entidades com a Visão Estrutural (0.2.1) do NCL Composer](/images/posts/12e6548eefdcf0389c9b37e1fdaae90a.gif)
 
 *Figura 4 - Adicionando Entidades com a Visão Estrutural (0.2.1) no NCL Composer*
 
-![Adicionando Entidades com a Visão Estrutural (0.3.0) no NCL Composer*](/assets/images/posts/2fa1961ffa964bb41911077d5f6d3aea.gif)
+![Adicionando Entidades com a Visão Estrutural (0.3.0) no NCL Composer*](/images/posts/2fa1961ffa964bb41911077d5f6d3aea.gif)
 
 *Figura 5 - Adicionando Entidades com a Visão Estrutural (0.3.0) no NCL Composer*
 
@@ -65,14 +65,14 @@ A partir da barra de ferramentas, a versão `0.3.0` da Visão Estrutural possibi
 
 Além, da barra de ferramentas, a versão `0.3.0` permite que as entidades possam ser adicionadas também através de atalhos de teclado. Assim:
 
-- Tecla `3`: ![4637a12619bcd4f81eff1834a97738a0](/assets/images/extra/icons/cpricon/0.1.0/4637a12619bcd4f81eff1834a97738a0.png) - Adiciona uma mídia na entidade selecionada.
-- Tecla `4`: ![767ac29f6853ae3196040c091f60bf80](/assets/images/extra/icons/cpricon/0.1.0/767ac29f6853ae3196040c091f60bf80.png) - Adiciona um contexto na entidade selecionada.
-- Tecla `5`: ![e68a8264658b5f57356083f7d336dc75](/assets/images/extra/icons/cpricon/0.1.0/e68a8264658b5f57356083f7d336dc75.png)- Adiciona um *switch* na entidade selecionada.
-- Tecla `6`: ![655f1408b210b5c903ada389b3274592](/assets/images/extra/icons/cpricon/0.1.0/655f1408b210b5c903ada389b3274592.png)- Adiciona um *body* no projeto.
-- Tecla `7`: ![88436df97d2ccb07d88be134690f429a](/assets/images/extra/icons/cpricon/0.1.0/88436df97d2ccb07d88be134690f429a.png)- Adiciona uma área na entidade selecionada.
-- Tecla `8`: ![10c6724abbd112b4259d1370a80d7ba8](/assets/images/extra/icons/cpricon/0.1.0/10c6724abbd112b4259d1370a80d7ba8.png) - Adiciona uma propriedade na entidade selecionada.
-- Tecla `9`: ![fe722af773e3379d04ffd2e1fbcd9f6d](/assets/images/extra/icons/cpricon/0.1.0/fe722af773e3379d04ffd2e1fbcd9f6d.png) - Adiciona uma porta na entidade selecionada.
-- Tecla `0`: ![19bb5dbacbe287ba704b32cc2d229ab9](/assets/images/extra/icons/cpricon/0.1.0/19bb5dbacbe287ba704b32cc2d229ab9.png) - Adiciona uma porta de *switch* na entidade selecionada.
+- Tecla `3`: ![4637a12619bcd4f81eff1834a97738a0](/images/extra/icons/cpricon/0.1.0/4637a12619bcd4f81eff1834a97738a0.png) - Adiciona uma mídia na entidade selecionada.
+- Tecla `4`: ![767ac29f6853ae3196040c091f60bf80](/images/extra/icons/cpricon/0.1.0/767ac29f6853ae3196040c091f60bf80.png) - Adiciona um contexto na entidade selecionada.
+- Tecla `5`: ![e68a8264658b5f57356083f7d336dc75](/images/extra/icons/cpricon/0.1.0/e68a8264658b5f57356083f7d336dc75.png)- Adiciona um *switch* na entidade selecionada.
+- Tecla `6`: ![655f1408b210b5c903ada389b3274592](/images/extra/icons/cpricon/0.1.0/655f1408b210b5c903ada389b3274592.png)- Adiciona um *body* no projeto.
+- Tecla `7`: ![88436df97d2ccb07d88be134690f429a](/images/extra/icons/cpricon/0.1.0/88436df97d2ccb07d88be134690f429a.png)- Adiciona uma área na entidade selecionada.
+- Tecla `8`: ![10c6724abbd112b4259d1370a80d7ba8](/images/extra/icons/cpricon/0.1.0/10c6724abbd112b4259d1370a80d7ba8.png) - Adiciona uma propriedade na entidade selecionada.
+- Tecla `9`: ![fe722af773e3379d04ffd2e1fbcd9f6d](/images/extra/icons/cpricon/0.1.0/fe722af773e3379d04ffd2e1fbcd9f6d.png) - Adiciona uma porta na entidade selecionada.
+- Tecla `0`: ![19bb5dbacbe287ba704b32cc2d229ab9](/images/extra/icons/cpricon/0.1.0/19bb5dbacbe287ba704b32cc2d229ab9.png) - Adiciona uma porta de *switch* na entidade selecionada.
 
 Um detalhe especial, que vale tanto para a barra de ferramentas quanto para os atalhos, é que uma ação de adição pode ser **ignorada** caso nenhuma entidade esteja selecionada ou se a entidade selecionada não permitir adicionar como um de seus filhos entidades do tipo da ação. Por exemplo, se o autor seleciona uma mídia e aperta a tecla `4` a ação será ignorada, uma vez que o autor está tentando adicionar um contexto como filho de uma mídia. A exceção a essa regra é o *body*, que só será ignorado caso o projeto já contenha um outro *body*.
 
@@ -82,11 +82,11 @@ Mesmo na adição de novas entidades através do menu contextual, existem difere
 
 ### Adicionando relacionamentos
 
-![Adicionando Relacionamentos com a Visão Estrutural (0.2.1) no NCL Composer](/assets/images/posts/72cc6b3522ed622e18b28fa78468de87.gif)
+![Adicionando Relacionamentos com a Visão Estrutural (0.2.1) no NCL Composer](/images/posts/72cc6b3522ed622e18b28fa78468de87.gif)
 
 *Figura 6 - Adicionando Relacionamentos com a Visão Estrutural (0.2.1) no NCL Composer*
 
-![Adicionando Relacionamentos com a Visão Estrutural (0.3.0) no NCL Composer](/assets/images/posts/8d79c8a4f54e556f9d574345a86d7e33.gif)
+![Adicionando Relacionamentos com a Visão Estrutural (0.3.0) no NCL Composer](/images/posts/8d79c8a4f54e556f9d574345a86d7e33.gif)
 
 *Figura 7 - Adicionando Relacionamentos com a Visão Estrutural (0.3.0) no NCL Composer*
 

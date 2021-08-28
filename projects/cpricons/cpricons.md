@@ -7,7 +7,7 @@ title: cpricons
 subtitle: "CPR Icons: Pacote de ícones do NCL Composer"
 
 duration: 2017 - 2017
-image: /assets/images/projects/cpricons/542849f939060eb204dd4b3ff98e5c53.png
+image: /images/projects/cpricons/542849f939060eb204dd4b3ff98e5c53.png
 
 excerpt: "Pacote de ícones utilizado pelos NCL Composer para representar as entidades da NCL e outras funcionalidades da ferramenta."
 

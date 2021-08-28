@@ -7,7 +7,7 @@ title: isbdesigner
 subtitle: "ISB Designer: a tool for design interactive storyboard"
 
 duration: 2011 - 2014
-image: /assets/images/projects/isbdesigner/0.0.1/0f6548a5659620651e30f990c200ba2d.png
+image: /images/projects/isbdesigner/0.0.1/0f6548a5659620651e30f990c200ba2d.png
 
 excerpt: "ISB Designer is an authoring tool focused on the design of interactive narratives. Based on techniques used by film and animation producers, the tool does not rule out paradigms they are used to. One of its main advantages is to allow the design of audiovisual content together with its points of adaptation and intervention, thus helping in the detection and correction of narrative inconsistencies. Another ISB Designer differential is the possibility of designing applications for presentations on multiple screens. Unlike other tools, the ISB Designer focuses on the design and prototyping phase of applications, as a means of producing higher quality interactive narratives, for then automatically generate the final application, in a post-project stage."
 
@@ -69,10 +69,10 @@ Em caso de dúvidas, entre [em contato](/#contato).
 
 ## downloads
 
-- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Sequencial Model*).  <i class="fas fa-download"></i> • [[zip](/assets/downloads/projects/isbdesigner/9f522044dac8534b50191c3f80284129.zip)]
-- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Adaptative Model*).  <i class="fas fa-download"></i> • [[zip](/assets/downloads/projects/isbdesigner/0db73e1876e1890da238deb5a12cc165.zip)]
-- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Distributive Model*).  <i class="fas fa-download"></i> • [[zip](/assets/downloads/projects/isbdesigner/6e53384f2a124639c06638d24f89dd00.zip)]
-- <i class="far fa-calendar-alt"></i> 2012.01.16 • Logos. <i class="fas fa-download"></i> • [[zip](/assets/downloads/projects/isbdesigner/ac2b617435903b688af3f43fa0c122bf.zip)]
+- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Sequencial Model*).  <i class="fas fa-download"></i> • [[zip](/downloads/projects/isbdesigner/9f522044dac8534b50191c3f80284129.zip)]
+- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Adaptative Model*).  <i class="fas fa-download"></i> • [[zip](/downloads/projects/isbdesigner/0db73e1876e1890da238deb5a12cc165.zip)]
+- <i class="far fa-calendar-alt"></i> 2012.04.04 • Interactive Storyboard (*Distributive Model*).  <i class="fas fa-download"></i> • [[zip](/downloads/projects/isbdesigner/6e53384f2a124639c06638d24f89dd00.zip)]
+- <i class="far fa-calendar-alt"></i> 2012.01.16 • Logos. <i class="fas fa-download"></i> • [[zip](/downloads/projects/isbdesigner/ac2b617435903b688af3f43fa0c122bf.zip)]
 
 ## releases
 
