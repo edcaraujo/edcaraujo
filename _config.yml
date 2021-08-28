@@ -12,13 +12,12 @@
 title: edcaraujo
 subtitle: Eduardo Cruz Araujo
 epigraphy: The meaning of life is to give life meaning
-description: Olá! Bem-vindo a minha página. Me chamo Eduardo e espero que aqui seja um local onde você possa aprender um pouco mais sobre tecnologia e inovação, além de conhecer e discutir sobre projetos e interesses.
+description: Olá! Bem-vindo a minha página. Me chamo Eduardo e espero que aqui seja um local onde você possa aprender um pouco mais sobre tecnologia e inovação, além de conhecer e discutir sobre meus projetos e interesses.
 
 url: http://edcaraujo.com
 
 github: edcaraujo
 linkedin: edcaraujo
-skype: edcaraujo
 instagram: edcaraujo
 
 # Build settings
@@ -35,5 +34,6 @@ navigation:
 
 # Plugins settings
 plugins:
+  - jekyll-sitemap
   - jekyll-feed
   - jekyll_version_plugin
