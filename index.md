@@ -9,19 +9,21 @@ navigation:
  - contato
 ---
 
-Olá, mundo! Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com), apaixonado por tecnologia, pesquisa e programação competitiva.
+Olá, mundo! Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com), apaixonado por tecnologia.
 
-Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde atuo como  **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação. Além disso, estou sempre envolvido em alguns projetos *freelancer* e um fascinado por programação competitiva, participando de diversos trabalhos voluntários na divulgação e ensino do tema na região. 
+Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde trabalho como **Desenvolvedor Sênior** na [Carefy](https://www.carefy.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação. Além disso, estou sempre envolvido em alguns projetos *freelancer* e um fascinado por programação competitiva, participando de diversos trabalhos voluntários na divulgação e ensino na região. 
 
-Um pouco antes, recebi o título de **Mestre (Msc.)** em Informática pela PUC-Rio em 2012, mesmo ano em que iniciei o Doutorado (Ph.D.) em Informática também pela PUC-Rio. Durante esse período, trabalhei como **Pesquisador** e **Analista de Sistemas** no [Lab. TeleMídia](http://www.telemidia.puc-rio.br/) da [PUC-Rio](https://www.puc-rio.br/), em que contribuí na especificação do Sistema Brasileiro de TV Digital e na Recomendação ITU-T para serviços IPTV.
+Um pouco antes trabalhei como **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/), respondendo diretamente ao Superintendente, em que, junto com a equipe, apoiava a gestão de 8 unidades hospitalares (2x Hospitais, 4x UPAs e 2x UBS), somando cerca de 75% dos atendimentos SUS do Município de Ribeirão Preto - SP, além do suporte à gestão administrativa da fundação, no apoio direto e indireto aos 1200 colaboradores e outros 300 Médicos que impactam na assistência aos munícipes da região. 
+
+Recebi o título de **Mestre (Msc.)** em Informática pela PUC-Rio em 2012, mesmo ano em que iniciei o Doutorado (Ph.D.) em Informática também pela PUC-Rio. Durante esse período, trabalhei como **Pesquisador** e **Analista de Sistemas** no [Lab. TeleMídia](http://www.telemidia.puc-rio.br/) da [PUC-Rio](https://www.puc-rio.br/), em que contribuí na especificação do Sistema Brasileiro de TV Digital e na Recomendação ITU-T para serviços IPTV.
 
 ## áreas de interesse
 
-- Inovação e Gestão de tecnologia
-- *Business Intelligence*
-- Sistemas Multimídia 
-- Interação Humano-Computador
+- Inovação e Gestão em Saúde
+- Modelagem, Desenvolvimento e QA de Software
+- UI/UX
 - Programação Competitiva
+- Pensamento Computacional
 
 ## curriculum
 
@@ -49,14 +51,16 @@ Ribeirão Preto - SP, Brasil.
 
 ### profissional
 
-**Fundação Hospital Santa Lydia**  
-Rua Tamandaré, 434, Campos Elíseos  
-CEP 14085-070  
-Ribeirão Preto - SP, Brasil.
+**Carefy**  
+Av. Dra. Nadir Aguiar, 1805  
+Ribeirão Preto - SP, Brasil.  
 
-<i class="fas fa-phone fa-lg"></i> +55 16 3605-4852  
-<i class="fas fa-envelope fa-lg"></i> [ecaraujo@hospitalsantalydia.com.br](mailto:edcaraujo@hospitalsantalydia.com.br)  
-<i class="fas fa-home fa-lg"></i> [http://hospitalsantalydia.com.br/](http://hospitalsantalydia.com.br/)
+Alameda Vicente Pinzon, 54  
+São Paulo - SP, Brasil.
+
+<i class="fas fa-phone fa-lg"></i> +55 16  98165-6463  
+<i class="fas fa-envelope fa-lg"></i> [eduardo.araujo@carefy.com.br](mailto:eduardo.araujo@carefy.com.br)  
+<i class="fas fa-home fa-lg"></i> [https://www.carefy.com.br/](https://www.carefy.com.br/)
 
 **Universidade Paulista**  
 Av. Carlos Consoni, 10, Jardim Canadá  
