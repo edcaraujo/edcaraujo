@@ -11,7 +11,7 @@ navigation:
 
 Olá, mundo! Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com), apaixonado por tecnologia.
 
-Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde trabalho como **Desenvolvedor Sênior** na [Carefy](https://www.carefy.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação. Além disso, estou sempre envolvido em alguns projetos *freelancer* e um fascinado por programação competitiva, participando de diversos trabalhos voluntários na divulgação e ensino na região. 
+Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde trabalho como **Desenvolvedor Sênior** na [Carefy](https://www.carefy.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação. Além disso, estou sempre envolvido outros projetos e um fascinado por programação competitiva.
 
 Um pouco antes trabalhei como **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/), respondendo diretamente ao Superintendente, em que, junto com a equipe, apoiava a gestão de 8 unidades hospitalares (2x Hospitais, 4x UPAs e 2x UBS), somando cerca de 75% dos atendimentos SUS do Município de Ribeirão Preto - SP, além do suporte à gestão administrativa da fundação, no apoio direto e indireto aos 1200 colaboradores e outros 300 Médicos que impactam na assistência aos munícipes da região. 
 
