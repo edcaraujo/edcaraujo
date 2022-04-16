@@ -6,7 +6,7 @@ permalink: /projetos/jumintus/
 title: jumintus
 subtitle: "Jumintus"
 
-duration: 2020 - Hoje
+duration: 2020 - 2021
 
 excerpt: "Haiô Silver! Sistema de Helpdesk Go Horse (com Asana)."
 
