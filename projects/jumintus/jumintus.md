@@ -3,8 +3,6 @@ layout: project
 
 permalink: /projetos/jumintus/
 
-highlight: novo
-
 title: jumintus
 subtitle: "Jumintus"
 

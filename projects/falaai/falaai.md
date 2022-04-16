@@ -3,8 +3,6 @@ layout: project
 
 permalink: /projetos/falaai/
 
-highlight: novo
-
 title: falaai
 subtitle: "Fala.ai"
 
