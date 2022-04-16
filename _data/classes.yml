@@ -1,3 +1,34 @@
+- title: "Interface Humano-Computador"
+  code: "IHC"
+  institution: "Universidade Paulista - UNIP"
+  year: "2022.1"
+  schedule: "sexta-feira, 19h:10 - 22h:00"
+  location: "Sala 204B"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Compreender os principais conceitos da Interface humano-computador e conhecer as formas de aplicá-los no desenvolvimento e avaliação de projetos de interface. Diferenciar técnicas e métricas mais adequadas a cada tipo de projeto e de interface desenvolvida, tendo em vista as demandas mercadológicas."
+  tags: [unip, ciência da computação, ihc, interface, interação, usabilidade, avaliação, design, prototipação]
+
+- title: "Programação Orientada a Objeto I"
+  code: "POO"
+  institution: "Universidade Paulista - UNIP"
+  year: "2022.1"
+  schedule: "quinta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #3"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Colocar os alunos em contato direto com o ambiente mobile de modo que possam executar desenvolvimentos de projetos com o uso da ferramenta visual (MIT - App Inventor 2) para suprir as necessidades dessa área da computação, familiarizando-os com a realidade multidisciplinar dos trabalhos profissionais realizados em empresas da área de computação."
+  tags: [unip, análise e desenvolvimento de sistemas, poo, ads, csharp, visual studio]
+
+
+- title: "Programação para Dispositivos Móveis"
+  code: "PDM"
+  institution: "Universidade Paulista - UNIP"
+  year: "2022.1"
+  schedule: "terça-feira, 19h:10 - 22h:00"
+  location: "Laboratório #3"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Histórico. Abstração e encapsulamento. Classes e objetos. Atributos e métodos. Herança e Polimorfismo. Comunicação e associação. Herança simples e múltipla. Hierarquias de classes. Persistência. Interfaces. Inicialização e destruição de objetos. Padrões de interação entre objetos. Aplicações dos conceitos utilizando uma linguagem de programação orientada a objetos (C#)."
+  tags: [unip, ciência da computação, pdm, mobile, appinventor]
+
 - title: "Aplicações de Linguagem de Programação Orientada a Objetos"
   code: "POO"
   institution: "Universidade Paulista - UNIP"
