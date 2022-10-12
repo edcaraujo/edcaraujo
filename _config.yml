@@ -26,7 +26,6 @@ markdown: kramdown
 # Theme settings
 navigation: 
   - index.md
-  - projects/projects.md
   - presentations/presentations.md
   - publications/publications.md
   - teaching/teaching.md
