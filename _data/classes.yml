@@ -1,3 +1,43 @@
+- title: "Introdução a Programação Estruturada"
+  code: "IPE"
+  institution: "Universidade Paulista - UNIP"
+  year: "2022.2"
+  schedule: "sexta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #3"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Desenvolver o raciocínio lógico aplicado à solução de problemas em nível computacional."
+  tags: [unip, ciência da computação, ipe, python, vscode, algoritmo, numpy, pandas]
+
+- title: "Programação Orientada a Objeto II"
+  code: "POOII"
+  institution: "Universidade Paulista - UNIP"
+  year: "2022.2"
+  schedule: "quinta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #2"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Proporcionar ao aluno uma continuidade dos conceitos referentes à programação orientada a objetos apresentados na disciplina POO I cursada no semestre anterior, aprofundando os conceitos com exercícios práticos. Utilizar a linguagem orientada a objetos C# no desenvolvimento de aplicações em camadas, no acesso a dados e no desenvolvimento de relatórios. Desenvolver a partir dos diagramas UML."
+  tags: [unip, análise e desenvolvimento de sistemas, pooII, ads, csharp, visual studio, mvc, uml, solid, wpf]
+
+- title: "Linguagem e Técnicas de Programação"
+  code: "LTP"
+  institution: "Universidade Paulista - UNIP"
+  year: "2022.2"
+  schedule: "quarta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #3"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Apresentar o conceito de algoritmo e de como desenvolvê-lo abordando o paradigma procedural estruturado, envolvendo os conceitos básicos de lógica de programação. "
+  tags: [unip, análise e desenvolvimento de sistemas, ltp, ads, c, codeblocks, algoritmo]
+
+- title: "Lógica de Programação e Algoritimos"
+  code: "LPA"
+  institution: "Universidade Paulista - UNIP"
+  year: "2022.2"
+  schedule: "terça-feira, 19h:10 - 22h:00"
+  location: "Sala 204B"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Desenvolver o raciocínio lógico aplicado à solução de problemas em nível computacional."
+  tags: [unip, ciência da computação, lpa, pseudocodigo, fluxograma, algoritmo, visualg]
+
 - title: "Interface Humano-Computador"
   code: "IHC"
   institution: "Universidade Paulista - UNIP"
