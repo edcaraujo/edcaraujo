@@ -26,7 +26,7 @@ Recebi o título de **Mestre (Msc.)** em Informática pela PUC-Rio em 2012, mesm
 
 ## habilidades
 
-Lista de **habilidades**, **papeis**, **tecnologias** e **ferramentas** presentes na minha rotina profissional **atualmente**. Mais detalhes e outras estão disponíveis na [lista completa](/habilidades).
+Lista de **habilidades**, **papeis**, **tecnologias**, **ferramentas** e **projetos** presentes na minha rotina profissional **atualmente**. Mais detalhes e outras estão disponíveis na [lista completa](/habilidades).
 
 {% assign skills = site.data.skills 
   | where_exp: "item", "item.highlights contains 'daily'" 

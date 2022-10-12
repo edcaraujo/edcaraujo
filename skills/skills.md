@@ -9,12 +9,12 @@ navigation:
  - todas
 ---
 
-Lista histórica de **habilidades**, **papeis**, **tecnologias** e **ferramentas** presentes na minha rotina profissional. 
+Lista histórica de **habilidades**, **papeis**, **tecnologias**, **ferramentas** e **projetos** presentes na minha rotina profissional. 
 
 {% assign skills = site.data.skills 
   | sort: "title" %}
 
-<h2 id="todas">todas ({{ skills.size }})</h2>
+<h2 id="todas">todas</h2>
 
 <p>
 {% for skill in skills %}
