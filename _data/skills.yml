@@ -46,12 +46,6 @@
   level: ""
   highlights: [daily]
 
-- title: "scrum master"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
 - title: "product owner"
   url: ""
   category: ""
@@ -148,8 +142,104 @@
   level: ""
   highlights: [daily]
 
-- title: "solid"
+- title: "grafana"
   url: ""
   category: ""
   level: ""
   highlights: [daily]
+
+- title: "ginga"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "ncl"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "c++"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "qt"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "latex"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "researcher"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "lua"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "dokuwiki"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "asana"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "postgresql"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "python"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "java"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "spring"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "codeigniter"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "laravel"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""
+
+- title: "hibernate"
+  url: ""
+  category: ""
+  level: ""
+  highlights: ""

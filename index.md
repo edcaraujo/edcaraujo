@@ -4,17 +4,17 @@ layout: page
 title: sobre
 
 navigation:
- - habilidades
  - áreas de interesse
+ - habilidades
  - curriculum
  - contato
 ---
 
 Olá, mundo! Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com).
 
-Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde trabalho como **Desenvolvedor Sênior** na [Carefy](https://www.carefy.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação. Além disso, estou sempre envolvido em projetos relacionados à programação competitiva.
+Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde trabalho como **Desenvolvedor Sênior** na [Carefy](https://www.carefy.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação e Análise e Desenvolvimento de Sistemas. Além disso, estou sempre envolvido em projetos relacionados à programação competitiva.
 
-Um pouco antes trabalhei como **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/), respondendo diretamente ao Superintendente, em que, junto com a equipe, apoiava a gestão de 8 unidades hospitalares (2x Hospitais, 4x UPAs e 2x UBS), somando cerca de 75% dos atendimentos SUS do Município de Ribeirão Preto - SP, além do suporte à gestão administrativa da fundação, no apoio direto e indireto aos 1200 colaboradores e outros 300 Médicos que impactam na assistência aos munícipes da região. 
+Na [Carefy](https://www.carefy.com.br/) atuo com papeis flexiveis, apoiando na gestão do time de desenvolvimento (**Tech Leader**); organização e deploy das aplicações e suas atualizações (**Devops**); alinhamento, organização das demandas e apoio técnico junto aos clientes (**Product Owner**). Um pouco antes trabalhei como **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/), respondendo diretamente ao Superintendente, em que, junto com a equipe, apoiava a gestão de 8 unidades hospitalares (2x Hospitais, 4x UPAs e 2x UBS).
 
 Recebi o título de **Mestre (Msc.)** em Informática pela PUC-Rio em 2012, mesmo ano em que iniciei o Doutorado (Ph.D.) em Informática também pela PUC-Rio. Durante esse período, trabalhei como **Pesquisador** e **Analista de Sistemas** no [Lab. TeleMídia](http://www.telemidia.puc-rio.br/) da [PUC-Rio](https://www.puc-rio.br/), em que contribuí na especificação do Sistema Brasileiro de TV Digital e na Recomendação ITU-T para serviços IPTV.
 ## áreas de interesse
@@ -26,7 +26,7 @@ Recebi o título de **Mestre (Msc.)** em Informática pela PUC-Rio em 2012, mesm
 
 ## habilidades
 
-Lista de **habilidades**, **papeis**, **tecnologias** e **ferramentas** presentes na minha rotina profissional **diariamente**. Mais detalhes e outras estão disponíveis na [lista completa](/habilidades).
+Lista de **habilidades**, **papeis**, **tecnologias** e **ferramentas** presentes na minha rotina profissional **atualmente**. Mais detalhes e outras estão disponíveis na [lista completa](/habilidades).
 
 {% assign skills = site.data.skills 
   | where_exp: "item", "item.highlights contains 'daily'" 
