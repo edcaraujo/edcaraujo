@@ -20,13 +20,16 @@
     <meta property="og:description" content="{{ description }}" />
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary" />
+    <meta property="twitter:title" content="{{ page.title }} | {{ site.title }}" />
 
     <link rel="canonical" href="{{ site.url }}" />
 
     <script type="application/ld+json">
       {"@type":"WebSite","url":"{{ site.url }}","headline":"{{ page.title }}","name":"{{ site.title }}","description":"{{ site.description }}","@context":"http://schema.org"}
     </script>
-
+    
     <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.url }}/feed.xml">
     
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
