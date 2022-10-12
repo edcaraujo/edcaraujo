@@ -148,6 +148,36 @@
   level: ""
   highlights: [daily]
 
+- title: "liderança"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "gestão de equipes"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "gestão ágil de projetos"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "visão estratégica"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "gestão de serviços de saúde"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
 - title: "ginga"
   url: ""
   category: ""
@@ -221,12 +251,6 @@
   highlights: ""
 
 - title: "spring"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "codeigniter"
   url: ""
   category: ""
   level: ""
@@ -333,3 +357,39 @@
   category: ""
   level: ""
   highlights: ""
+
+- title: "html5"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "css3"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "bootstrap"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "jquery"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "node.js"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
+
+- title: "programação competitiva"
+  url: ""
+  category: ""
+  level: ""
+  highlights: [daily]
