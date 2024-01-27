@@ -12,7 +12,7 @@
 title: edcaraujo
 subtitle: Eduardo Cruz Araujo
 epigraphy: The meaning of life is to give life meaning
-description: Olá! Bem-vindo a minha página. Me chamo Eduardo e espero que aqui seja um local onde você possa aprender um pouco mais sobre tecnologia e inovação, além de conhecer e discutir sobre meus projetos e interesses.
+description: Olá! Seja bem-vindo à minha página. Meu nome é Eduardo e sou apaixonado por tecnologia e inovação. Aqui, você encontrará informações sobre meus projetos, interesses e reflexões sobre o mundo digital.
 
 url: http://edcaraujo.com
 
@@ -28,6 +28,7 @@ navigation:
   - index.md
   - presentations/presentations.md
   - publications/publications.md
+  - projects/projects.md
   - teaching/teaching.md
   - blog/blog.md
 
