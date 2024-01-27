@@ -1,5 +1,85 @@
+- title: "Aplicações de Linguagem de Programação Orientada a Objetos"
+  code: "20232-UNIP-J16B"
+  institution: "Universidade Paulista - UNIP"
+  year: "2023.2"
+  schedule: "sexta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #1"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Utilizar a orientação a objetos, através de uma linguagem de programação, bem como uma ferramenta visual para a implementação de software e respectivo banco de dados."
+  tags: [unip, ciência da computação, poo, mvc, java, swing, sql, postgresql, netbeans, hibernate, orm, jpa, jsp, tomcat]
+
+- title: "Linguagem e Técnicas de Programação"
+  code: "20232-UNIP-288S"
+  institution: "Universidade Paulista - UNIP"
+  year: "2023.2"
+  schedule: "quinta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #8"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Apresentar o conceito de algoritmo e de como desenvolvê-lo abordando o paradigma procedural estruturado, envolvendo os conceitos básicos de lógica de programação. "
+  tags: [unip, análise e desenvolvimento de sistemas, ltp, ads, c, codeblocks, algoritmo]
+
+- title: "Programação Orientada a Objeto II"
+  code: "20232-UNIP-299S"
+  institution: "Universidade Paulista - UNIP"
+  year: "2023.2"
+  schedule: "quarta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #4"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Proporcionar ao aluno uma continuidade dos conceitos referentes à programação orientada a objetos apresentados na disciplina POO I cursada no semestre anterior, aprofundando os conceitos com exercícios práticos. Utilizar a linguagem orientada a objetos C# no desenvolvimento de aplicações em camadas, no acesso a dados e no desenvolvimento de relatórios. Desenvolver a partir dos diagramas UML."
+  tags: [unip, análise e desenvolvimento de sistemas, pooII, ads, csharp, visual studio, mvc, uml, solid, wpf]
+
 - title: "Introdução a Programação Estruturada"
-  code: "IPE"
+  code: "20232-UNIP-J16B"
+  institution: "Universidade Paulista - UNIP"
+  year: "2023.2"
+  schedule: "terça-feira, 19h:10 - 22h:00"
+  location: "Laboratório #3"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Desenvolver o raciocínio lógico aplicado à solução de problemas em nível computacional."
+  tags: [unip, ciência da computação, ipe, python, vscode, algoritmo, numpy, pandas]
+
+- title: "Programação Web Responsiva"
+  code: "20231-UNIP-J09B"
+  institution: "Universidade Paulista - UNIP"
+  year: "2023.1"
+  schedule: "sexta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #5"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Implementar Web Standards como a semântica do XML e separação entre formatação e conteúdo. Usar folhas de estilos em cascata (estilos CSS) para criar páginas mais flexíveis, mais leves, e controlar o seu aspecto gráfico com maior precisão e com maior facilidade na correção de erros. Ao final deste, o aluno entenderá os conceitos fundamentais do trabalho com os Web Standards e será capaz de implementar HTML Responsivo, com o uso do framework Bootstrap."
+  tags: [unip, ciência da computação, pwd, web, html5, css3, bootstrap, vscode]
+
+- title: "Programação Orientada a Objeto I"
+  code: "20231-UNIP-249S"
+  institution: "Universidade Paulista - UNIP"
+  year: "2023.1"
+  schedule: "quinta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #4"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Apresentar os princípios da programação orientada a objeto. Consolidar os conceitos de programação baseada em objetos. Compreender os conceitos fundamentais de programação orientada a objetos.  Apresentar a linguagem orientada a objeto C#. Capacitar os alunos a implementarem aplicações utilizando o paradigma de programação orientada a objetos em C#."
+  tags: [unip, análise e desenvolvimento de sistemas, poo, solid, ads, csharp, visual studio]
+
+- title: "Programação Orientada a Objeto I"
+  code: "20231-UNIP-249S"
+  institution: "Universidade Paulista - UNIP"
+  year: "2023.1"
+  schedule: "quarta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #4"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Apresentar os princípios da programação orientada a objeto. Consolidar os conceitos de programação baseada em objetos. Compreender os conceitos fundamentais de programação orientada a objetos.  Apresentar a linguagem orientada a objeto C#. Capacitar os alunos a implementarem aplicações utilizando o paradigma de programação orientada a objetos em C#."
+  tags: [unip, análise e desenvolvimento de sistemas, poo, solid, ads, csharp, visual studio]
+
+- title: "Interface Humano-Computador"
+  code: "20231-UNIP-J94A"
+  institution: "Universidade Paulista - UNIP"
+  year: "2023.1"
+  schedule: "terça-feira, 19h:10 - 22h:00"
+  location: "Sala 307B"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Compreender os principais conceitos da Interface humano-computador e conhecer as formas de aplicá-los no desenvolvimento e avaliação de projetos de interface. Diferenciar técnicas e métricas mais adequadas a cada tipo de projeto e de interface desenvolvida, tendo em vista as demandas mercadológicas."
+  tags: [unip, ciência da computação, ihc, interface, interação, usabilidade, avaliação, design, prototipação]
+
+- title: "Introdução a Programação Estruturada"
+  code: "20222-UNIP-J16B"
   institution: "Universidade Paulista - UNIP"
   year: "2022.2"
   schedule: "sexta-feira, 19h:10 - 22h:00"
@@ -9,7 +89,7 @@
   tags: [unip, ciência da computação, ipe, python, vscode, algoritmo, numpy, pandas]
 
 - title: "Programação Orientada a Objeto II"
-  code: "POOII"
+  code: "20222-UNIP-299S"
   institution: "Universidade Paulista - UNIP"
   year: "2022.2"
   schedule: "quinta-feira, 19h:10 - 22h:00"
@@ -19,7 +99,7 @@
   tags: [unip, análise e desenvolvimento de sistemas, pooII, ads, csharp, visual studio, mvc, uml, solid, wpf]
 
 - title: "Linguagem e Técnicas de Programação"
-  code: "LTP"
+  code: "20222-UNIP-288S"
   institution: "Universidade Paulista - UNIP"
   year: "2022.2"
   schedule: "quarta-feira, 19h:10 - 22h:00"
@@ -29,7 +109,7 @@
   tags: [unip, análise e desenvolvimento de sistemas, ltp, ads, c, codeblocks, algoritmo]
 
 - title: "Lógica de Programação e Algoritimos"
-  code: "LPA"
+  code: "20222-UNIP-J701"
   institution: "Universidade Paulista - UNIP"
   year: "2022.2"
   schedule: "terça-feira, 19h:10 - 22h:00"
@@ -39,7 +119,7 @@
   tags: [unip, ciência da computação, lpa, pseudocodigo, fluxograma, algoritmo, visualg]
 
 - title: "Interface Humano-Computador"
-  code: "IHC"
+  code: "20221-UNIP-J94A"
   institution: "Universidade Paulista - UNIP"
   year: "2022.1"
   schedule: "sexta-feira, 19h:10 - 22h:00"
@@ -49,28 +129,27 @@
   tags: [unip, ciência da computação, ihc, interface, interação, usabilidade, avaliação, design, prototipação]
 
 - title: "Programação Orientada a Objeto I"
-  code: "POO"
+  code: "20221-UNIP-249S"
   institution: "Universidade Paulista - UNIP"
   year: "2022.1"
   schedule: "quinta-feira, 19h:10 - 22h:00"
   location: "Laboratório #3"
   url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
-  resume: "Colocar os alunos em contato direto com o ambiente mobile de modo que possam executar desenvolvimentos de projetos com o uso da ferramenta visual (MIT - App Inventor 2) para suprir as necessidades dessa área da computação, familiarizando-os com a realidade multidisciplinar dos trabalhos profissionais realizados em empresas da área de computação."
+  resume: "Apresentar os princípios da programação orientada a objeto. Consolidar os conceitos de programação baseada em objetos. Compreender os conceitos fundamentais de programação orientada a objetos.  Apresentar a linguagem orientada a objeto C#. Capacitar os alunos a implementarem aplicações utilizando o paradigma de programação orientada a objetos em C#."
   tags: [unip, análise e desenvolvimento de sistemas, poo, ads, csharp, visual studio]
 
-
 - title: "Programação para Dispositivos Móveis"
-  code: "PDM"
+  code: "20221-UNIP-J95A"
   institution: "Universidade Paulista - UNIP"
   year: "2022.1"
   schedule: "terça-feira, 19h:10 - 22h:00"
   location: "Laboratório #3"
   url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
-  resume: "Histórico. Abstração e encapsulamento. Classes e objetos. Atributos e métodos. Herança e Polimorfismo. Comunicação e associação. Herança simples e múltipla. Hierarquias de classes. Persistência. Interfaces. Inicialização e destruição de objetos. Padrões de interação entre objetos. Aplicações dos conceitos utilizando uma linguagem de programação orientada a objetos (C#)."
+  resume: "Colocar os alunos em contato direto com o ambiente mobile de modo que possam executar desenvolvimentos de projetos com o uso da ferramenta visual (MIT - App Inventor 2) para suprir as necessidades dessa área da computação, familiarizando-os com a realidade multidisciplinar dos trabalhos profissionais realizados em empresas da área de computação."
   tags: [unip, ciência da computação, pdm, mobile, appinventor]
 
 - title: "Aplicações de Linguagem de Programação Orientada a Objetos"
-  code: "POO"
+  code: "20212-UNIP-J16B"
   institution: "Universidade Paulista - UNIP"
   year: "2021.2"
   schedule: "sexta-feira, 19h:10 - 22h:00"
@@ -80,7 +159,7 @@
   tags: [unip, ciência da computação, poo, mvc, java, swing, sql, postgresql, netbeans, hibernate, orm, jpa, jsp, tomcat]
 
 - title: "Linguagem de Programação Orientada a Objetos"
-  code: "POO"
+  code: "20211-UNIP-J12B "
   institution: "Universidade Paulista - UNIP"
   year: "2021.1"
   schedule: "sexta-feira, 19h:10 - 22h:00"
@@ -90,7 +169,7 @@
   tags: [unip, ciência da computação, poo, java, swing, netbeans]
 
 - title: "Aplicações de Linguagem de Programação Orientada a Objetos"
-  code: "POO"
+  code: "20202-UNIP-J16B"
   institution: "Universidade Paulista - UNIP"
   year: "2020.2"
   schedule: "sexta-feira, 19h:10 - 22h:00"
@@ -100,7 +179,7 @@
   tags: [unip, ciência da computação, poo, mvc, java, swing, sql, postgresql, netbeans, hibernate, orm, jpa, jsp, tomcat]
 
 - title: "Lógica de Programação e Algoritmos"
-  code: "LPA"
+  code: "20202-UNIP-J701"
   institution: "Universidade Paulista - UNIP"
   year: "2020.2"
   schedule: "terça-feira, 19h:10 - 22h:00"
@@ -109,8 +188,18 @@
   resume: "Capacitar o aluno a analisar problemas, projetar e validar soluções para os mesmos, através do uso de técnica e ferramentas de programação que envolvam raciocínio estruturado e modularização."
   tags: [unip, ciência da computação, lpa, lógica, programação, portugol, visualg]
 
+- title: "Interface Humano-Computador"
+  code: "20201-UNIP-J94A"
+  institution: "Universidade Paulista - UNIP"
+  year: "2020.1"
+  schedule: "sexta-feira, 19h:10 - 22h:00"
+  location: "Sala 304A / Remoto (COVID-19)"
+  url: "https://classroom.google.com/"
+  resume: "Compreender os principais conceitos da Interface humano-computador e conhecer as formas de aplicá-los no desenvolvimento e avaliação de projetos de interface. Diferenciar técnicas e métricas mais adequadas a cada tipo de projeto e de interface desenvolvida, tendo em vista as demandas mercadológicas."
+  tags: [unip, ciência da computação, ihc, interface, interação, usabilidade, avaliação, design, prototipação]
+
 - title: "Programação Web Responsiva"
-  code: "PWD"
+  code: "20201-UNIP-J09B"
   institution: "Universidade Paulista - UNIP"
   year: "2020.1"
   schedule: "quinta-feira, 19h:10 - 22h:00"
@@ -120,7 +209,7 @@
   tags: [unip, ciência da computação, pwd, web, html5, css3, bootstrap, vscode]
 
 - title: "Programação para Dispositivos Móveis"
-  code: "PDM"
+  code: "20201-UNIP-J95A"
   institution: "Universidade Paulista - UNIP"
   year: "2020.1"
   schedule: "terça-feira, 19h:10 - 22h:00"
@@ -128,14 +217,3 @@
   url: "https://classroom.google.com/"
   resume: "Colocar os alunos em contato direto com o ambiente mobile de modo que possam executar desenvolvimentos de projetos com o uso da ferramenta visual (MIT - App Inventor 2) para suprir as necessidades dessa área da computação, familiarizando-os com a realidade multidisciplinar dos trabalhos profissionais realizados em empresas da área de computação."
   tags: [unip, ciência da computação, pdm, mobile, appinventor]
-
-- title: "Interface Humano-Computador"
-  code: "IHC"
-  institution: "Universidade Paulista - UNIP"
-  year: "2020.1"
-  schedule: "sexta-feira, 19h:10 - 22h:00"
-  location: "Sala 304A / Remoto (COVID-19)"
-  url: "https://classroom.google.com/"
-  resume: "Compreender os principais conceitos da Interface humano-computador e conhecer as formas de aplicá-los no desenvolvimento e avaliação de projetos de interface. Diferenciar técnicas e métricas mais adequadas a cada tipo de projeto e de interface desenvolvida, tendo em vista as demandas mercadológicas."
-  tags: [unip, ciência da computação, ihc, interface, interação, usabilidade, avaliação, design, prototipação]
-

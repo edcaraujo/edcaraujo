@@ -11,6 +11,8 @@ navigation:
 
 Aqui você encontra algumas das ferramentas e projetos que estive envolvido nos últimos anos. Vale lembrar que projetos de pesquisa são listados apenas no meu [Curriculum Lattes](http://lattes.cnpq.br/0799632818632295). Se está procurando algum projeto ou ferramenta que não está listado abaixo, por favor entre [em contato](/#contato). 
 
+*Recent projects are hidden for now.* 😥
+
 {% assign list = site.pages 
   | where_exp: "item", "item.categories contains 'projects'"
   | where_exp: "item", "item.categories contains 'tools'"

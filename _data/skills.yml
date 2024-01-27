@@ -1,407 +1,442 @@
-- title: "php"
-  url: "https://www.php.net/"
-  category: ""
-  level: ""
-  highlights: [daily]
 
-- title: "nodejs"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "javascript"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "typescript"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "docker"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "kubernetes"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "aws"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "scrum"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "product owner"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "jira"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "powerbi"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "codeigniter"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "mysql"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "linux"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "git"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "code review"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "bitbucket"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "vscode"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "dbeaver"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "insomnia"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "professor"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "bash"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "tech leader"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "solid"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "grafana"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "liderança"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "gestão de equipes"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "gestão ágil de projetos"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "visão estratégica"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "gestão de serviços de saúde"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "ginga"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "ncl"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "c++"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "qt"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "latex"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "researcher"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "lua"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "dokuwiki"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "asana"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "postgresql"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "python"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "java"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "spring"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "laravel"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "hibernate"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "carefy"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "cpricons"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "falaai"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "gingaaio"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "gingancl"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "gingats"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "isbdesigner"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "jumintus"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "nclcomposer"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "nclcomposer"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "eclipse"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "nclstats"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "nclvalidator"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "nclvs"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "viewsaver"
-  url: ""
-  category: ""
-  level: ""
-  highlights: ""
-
-- title: "html5"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "css3"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "bootstrap"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "jquery"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "node.js"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
-
-- title: "programação competitiva"
-  url: ""
-  category: ""
-  level: ""
-  highlights: [daily]
 
 - title: "trello"
   url: ""
-  category: ""
+  categories: [management]
   level: ""
-  highlights: [daily]
+  tags: []
 
 - title: "pipefy"
   url: ""
-  category: ""
+  categories: [management]
   level: ""
-  highlights: [daily]
+  tags: []
+
+- title: "docker"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "discord"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "kubernetes"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "amazon aws"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "google cloud"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "linux"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "git"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "react"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "react native"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "bitbucket"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "github"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "gitflow"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "bitbucket pipeline"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "grafana"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "prometheus"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "bash"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "datadog"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "php"
+  url: "https://www.php.net/"
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "nodejs"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "javascript"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "typescript"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "codeigniter"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "hoppscotch"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+
+- title: "mysql"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "vscode"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "prometheus"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+  
+- title: "prefect"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+
+- title: "dbeaver"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "insomnia"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "solid"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "rabbitmq"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "nginx"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "ginga"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "ncl"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "c++"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "qt"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "latex"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "lua"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "dokuwiki"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "jest"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "eslint"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "etl"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "postgresql"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "python"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "metabase"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "jekyll"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily] 
+
+- title: "java"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "postgresql"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "spring"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "laravel"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "hibernate"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "eclipse"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "html5"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "swagger"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "css3"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "bootstrap"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "pritunl"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: []
+
+- title: "jquery"
+  url: ""
+  categories: [tech]
+  level: ""
+  tags: [daily]
+
+- title: "scrum"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "okr"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "agile"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "jira"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "power bi"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "asana"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "notion"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "kpi"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "liderança"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "sugarokr"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "confluence"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "inovação"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]
+
+- title: "gestão de pessoas"
+  url: ""
+  categories: [management]
+  level: ""
+  tags: [daily]

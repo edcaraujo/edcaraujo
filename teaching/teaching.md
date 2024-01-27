@@ -6,6 +6,8 @@ permalink: /ensino/
 title: ensino
 
 navigation:
+ - 2023.2
+ - 2023.1
  - 2022.2
  - 2022.1
  - 2021.2
@@ -23,9 +25,9 @@ navigation:
 <h2 id="{{ n }}">{{ n }} ({{ list.size }})</h2>
 
 {% for item in list %}
-<h3>{{ item.title }}</h3> 
+<h3><a href="{{ item.url }}" target="_blank">{{ item.title }}</a></h3>
 
-<p><strong>{{ item.institution }}</strong></p>
+<p><strong>{{ item.code }}</strong><br/><small>{{ item.institution }}</small></p>
 
 <p>
   <i class="far fa-calendar-alt"></i> <em>{{ item.schedule }}</em> • <i class="fas fa-map-marker-alt"></i> <em>{{ item.location }}</em> • <i class="fas fa-tags"></i> Tags:
@@ -35,8 +37,6 @@ navigation:
     <a>{{ tag }}</a> {% if tag != tags.last %}•{% endif %}
   {% endfor %}
 </p>
-
-<i class="fas fa-link"></i>  [Mais detalhes…]({{ item.url }})
 {% endfor %}
 
 {% endfor %}

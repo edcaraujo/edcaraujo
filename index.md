@@ -10,26 +10,32 @@ navigation:
  - contato
 ---
 
-Olá, mundo! Meu nome é [Eduardo Cruz Araujo](mailto:me@edcaraujo.com).
+Olá, mundo 👋! 
 
-Atualmente estou morando em [Ribeirão Preto - SP](https://en.wikipedia.org/wiki/Ribeir%C3%A3o_Preto), [Brasil](https://en.wikipedia.org/wiki/Brazil), onde trabalho como **Desenvolvedor Sênior** na [Carefy](https://www.carefy.com.br/) e **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx) no curso de Ciência da Computação e Análise e Desenvolvimento de Sistemas. Além disso, estou sempre envolvido em projetos relacionados à programação competitiva.
+Me chamo [Eduardo](mailto:me@edcaraujo.com) e sou Líder de tecnologia com experiência em **desenvolvimento de software**, **gestão de equipes** e **programação competitiva**.
 
-Na [Carefy](https://www.carefy.com.br/) atuo com papeis flexiveis, apoiando na gestão do time de desenvolvimento (**Tech Leader**); organização e deploy das aplicações e suas atualizações (**Devops**); alinhamento, organização das demandas e apoio técnico junto aos clientes (**Product Owner**). Um pouco antes trabalhei como **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/), respondendo diretamente ao Superintendente, em que, junto com a equipe, apoiava a gestão de 8 unidades hospitalares (2x Hospitais, 4x UPAs e 2x UBS).
+Atualmente, atuo como **Head de Tecnologia** na [Carefy](https://www.carefy.com.br/), uma *healthtech* com foco na gestão de pacientes internados e auditoria em saúde. Na Carefy, lidero a equipe de desenvolvedores e engenheiros responsáveis pelo evolução e manutenção das aplicações e soluções. Também sou **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx), onde leciono nos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas.
 
-Recebi o título de **Mestre (Msc.)** em Informática pela PUC-Rio em 2012, mesmo ano em que iniciei o Doutorado (Ph.D.) em Informática também pela PUC-Rio. Durante esse período, trabalhei como **Pesquisador** e **Analista de Sistemas** no [Lab. TeleMídia](http://www.telemidia.puc-rio.br/) da [PUC-Rio](https://www.puc-rio.br/), em que contribuí na especificação do Sistema Brasileiro de TV Digital e na Recomendação ITU-T para serviços IPTV.
+Anteriormente, trabalhei como **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/), onde fui responsável pela gestão de TI em oito unidades hospitalares. Também trabalhei como **Pesquisador e Analista de Sistemas** no [Lab. TeleMídia](http://www.telemidia.puc-rio.br/) da [PUC-Rio](https://www.puc-rio.br/), onde contribuí na especificação do Sistema Brasileiro de TV Digital e na Recomendação ITU-T para serviços IPTV.
+
+Recebi o título de **Mestre (Msc.)** em Informática pela PUC-Rio em 2012, mesmo ano em que iniciei o Doutorado (Ph.D.) em Informática também pela PUC-Rio. Sou apaixonado por tecnologia e sempre estou buscando novas oportunidades para aprender e crescer profissionalmente.
+
 ## áreas de interesse
 
 - Inovação e Gestão em Saúde
-- Desenvolvimento, Modelagem e QA de Software
-- UI/UX
+- Desenvolvimento Software
+- Gestão de equipes
 - Programação Competitiva
 
 ## habilidades
 
-Lista de **habilidades**, **papeis**, **tecnologias**, **ferramentas** e **projetos** presentes na minha rotina profissional **atualmente**. Mais detalhes e outras estão disponíveis na [lista completa](/habilidades).
+Lista de **habilidades**, **papeis**, **tecnologias** e **ferramentas** presentes na minha rotina profissional **atualmente**. Mais detalhes e outras estão disponíveis na [lista completa](/habilidades). Além disso, talvez seja interessante verificar as [disciplinas](/ensino) que estou ensinando neste semestre.
+
+### tech
 
 {% assign skills = site.data.skills 
-  | where_exp: "item", "item.highlights contains 'daily'" 
+  | where_exp: "item", "item.categories contains 'tech'"
+  | where_exp: "item", "item.tags contains 'daily'" 
   | sort: "title" %}
 
 <p>
@@ -38,7 +44,18 @@ Lista de **habilidades**, **papeis**, **tecnologias**, **ferramentas** e **proje
 {% endfor %}
 </p>
 
-Além disso, talvez seja interessante verificar as disciplinas que estou ensinando [neste semestre](/ensino).
+### management
+
+{% assign skills = site.data.skills 
+  | where_exp: "item", "item.categories contains 'management'"
+  | where_exp: "item", "item.tags contains 'daily'" 
+  | sort: "title" %}
+
+<p>
+{% for skill in skills %}
+<a href="{{ skill.url }}">{{ skill.title }}</a> {% if skill != skills.last %}•{% endif %}
+{% endfor %}
+</p>
 
 ## curriculum
 
@@ -67,13 +84,11 @@ Ribeirão Preto - SP, Brasil.
 ### profissional
 
 **Carefy**  
-Av. Dra. Nadir Aguiar, 1805  
+R. Gen. Augusto Soares dos Santos, 100  
+Parque Industrial Lagoinha  
 Ribeirão Preto - SP, Brasil.  
 
-Alameda Vicente Pinzon, 54  
-São Paulo - SP, Brasil.
-
-<i class="fas fa-phone fa-lg"></i> +55 16  98165-6463  
+<i class="fas fa-phone fa-lg"></i> +55 16 98165-6463  
 <i class="fas fa-envelope fa-lg"></i> [eduardo.araujo@carefy.com.br](mailto:eduardo.araujo@carefy.com.br)  
 <i class="fas fa-home fa-lg"></i> [https://www.carefy.com.br/](https://www.carefy.com.br/)
 
