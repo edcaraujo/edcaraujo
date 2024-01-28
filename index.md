@@ -12,9 +12,15 @@ navigation:
 
 Olá, mundo 👋! 
 
-Me chamo [Eduardo](mailto:me@edcaraujo.com) e sou Líder de tecnologia com experiência em **desenvolvimento de software**, **gestão de equipes** e **programação competitiva**.
+<div>
+  <div>
+    <img class="content-user" src="/images/411cc47d0e54ad097aaa1ee824a83bf8.jpg"/>
+  </div>
+</div> 
 
-Atualmente, atuo como **Head de Tecnologia** na [Carefy](https://www.carefy.com.br/), uma *healthtech* com foco na gestão de pacientes internados e auditoria em saúde. Na Carefy, lidero a equipe de desenvolvedores e engenheiros responsáveis pelo evolução e manutenção das aplicações e soluções. Também sou **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx), onde leciono nos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas.
+Me chamo [Eduardo](mailto:me@edcaraujo.com) e sou Líder de tecnologia com experiência em **desenvolvimento de software**, **gestão de equipes** e **programação competitiva**.         
+
+Atualmente, atuo como **Head de Tecnologia** na [Carefy](https://www.carefy.com.br/), uma *healthtech* com foco na gestão de pacientes internados e auditoria em saúde. Na Carefy, lidero a equipe de desenvolvedores e engenheiros responsáveis pela evolução e manutenção das aplicações e soluções. Também sou **Professor** na [Universidade Paulista – UNIP](https://www.unip.br/presencial/universidade/campi/ribeirao_preto.aspx), onde leciono nos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas.
 
 Anteriormente, trabalhei como **Coordenador de TI** na [Fundação Hospital Santa Lydia  - FHSL](http://www.hospitalsantalydia.com.br/), onde fui responsável pela gestão de TI em oito unidades hospitalares. Também trabalhei como **Pesquisador e Analista de Sistemas** no [Lab. TeleMídia](http://www.telemidia.puc-rio.br/) da [PUC-Rio](https://www.puc-rio.br/), onde contribuí na especificação do Sistema Brasileiro de TV Digital e na Recomendação ITU-T para serviços IPTV.
 

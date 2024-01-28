@@ -163,19 +163,11 @@
   level: ""
   tags: [daily]
 
-- title: "prometheus"
-  url: ""
-  categories: [tech]
-  level: ""
-  tags: [daily]
-
-  
 - title: "prefect"
   url: ""
   categories: [tech]
   level: ""
   tags: [daily]
-
 
 - title: "dbeaver"
   url: ""
