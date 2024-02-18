@@ -6,6 +6,7 @@ permalink: /ensino/
 title: ensino
 
 navigation:
+ - 2024.1
  - 2023.2
  - 2023.1
  - 2022.2
