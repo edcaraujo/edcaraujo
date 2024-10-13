@@ -1,3 +1,53 @@
+- title: "PrepTechGoogle"
+  code: "20242-ADATECH-PrepTechGoogle"
+  institution: " Ada Tech"
+  year: "2024.2"
+  schedule: "terça-feira e quinta-feira, 19h:00 - 22h:00"
+  location: "Remoto"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: ""
+  tags: [ada tech, data structures and algorithms, dsa, google]
+
+- title: "Interface Humano-Computador"
+  code: "20241-UNIP-J94A"
+  institution: "Universidade Paulista - UNIP"
+  year: "2024.1"
+  schedule: "terça-feira, 19h:10 - 22h:00"
+  location: "Sala 307B"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Compreender os principais conceitos da Interface humano-computador e conhecer as formas de aplicá-los no desenvolvimento e avaliação de projetos de interface. Diferenciar técnicas e métricas mais adequadas a cada tipo de projeto e de interface desenvolvida, tendo em vista as demandas mercadológicas."
+  tags: [unip, ciência da computação, ihc, interface, interação, usabilidade, avaliação, design, prototipação]
+
+- title: "Sistemas Operacionais"
+  code: "20241-UNIP-J17B"
+  institution: "Universidade Paulista - UNIP"
+  year: "2024.1"
+  schedule: "sexta-feira, 19h:10 - 22h:00"
+  location: "-"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: ""
+  tags: [unip, ciência da computação, so]
+
+- title: "Programação Orientada a Objeto I"
+  code: "20241-UNIP-249S"
+  institution: "Universidade Paulista - UNIP"
+  year: "2024.1"
+  schedule: "quinta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #4"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Apresentar os princípios da programação orientada a objeto. Consolidar os conceitos de programação baseada em objetos. Compreender os conceitos fundamentais de programação orientada a objetos.  Apresentar a linguagem orientada a objeto C#. Capacitar os alunos a implementarem aplicações utilizando o paradigma de programação orientada a objetos em C#."
+  tags: [unip, análise e desenvolvimento de sistemas, poo, solid, ads, csharp, visual studio]
+
+- title: "Programação Orientada a Objeto I"
+  code: "20241-UNIP-249S"
+  institution: "Universidade Paulista - UNIP"
+  year: "2024.1"
+  schedule: "quarta-feira, 19h:10 - 22h:00"
+  location: "Laboratório #4"
+  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  resume: "Apresentar os princípios da programação orientada a objeto. Consolidar os conceitos de programação baseada em objetos. Compreender os conceitos fundamentais de programação orientada a objetos.  Apresentar a linguagem orientada a objeto C#. Capacitar os alunos a implementarem aplicações utilizando o paradigma de programação orientada a objetos em C#."
+  tags: [unip, análise e desenvolvimento de sistemas, poo, solid, ads, csharp, visual studio]
+
 - title: "Aplicações de Linguagem de Programação Orientada a Objetos"
   code: "20232-UNIP-J16B"
   institution: "Universidade Paulista - UNIP"

@@ -6,6 +6,7 @@ permalink: /apresentacoes/
 title: apresentações
 
 navigation:
+ - 2024
  - 2019
  - 2018
  - 2017
