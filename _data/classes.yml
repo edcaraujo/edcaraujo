@@ -1,10 +1,41 @@
+
+- title: "Programação Web"
+  code: "20252-FATEC-ILP508"
+  institution: " Ada Tech"
+  year: "2025.2"
+  schedule: "sexta-feira, 19h:00 - 22h:30"
+  location: "Laboratório de Arquitetura"
+  url: ""
+  resume: ""
+  tags: [fatec, programação web, node.js, javascript, typescript, api, typeorm, swagger, jest]
+
+- title: "PrepTechGoogle"
+  code: "20252-ADATECH-PrepTechGoogle"
+  institution: " Ada Tech"
+  year: "2025.2"
+  schedule: "segunda-feira e quarta-feira, 19h:00 - 22h:00"
+  location: "Remoto"
+  url: ""
+  resume: ""
+  tags: [ada tech, data structures and algorithms, dsa, google, system design]
+
+- title: "Programação Web"
+  code: "20251-FATEC-ILP508"
+  institution: " Ada Tech"
+  year: "2025.1"
+  schedule: "sexta-feira, 19h:00 - 22h:30"
+  location: "Laboratório de Arquitetura"
+  url: ""
+  resume: ""
+  tags: [fatec, programação web, node.js, javascript, typescript, api, typeorm, swagger, jest]
+
 - title: "PrepTechGoogle"
   code: "20242-ADATECH-PrepTechGoogle"
   institution: " Ada Tech"
   year: "2024.2"
   schedule: "terça-feira e quinta-feira, 19h:00 - 22h:00"
   location: "Remoto"
-  url: "https://www.microsoft.com/pt-br/microsoft-teams/log-in"
+  url: ""
   resume: ""
   tags: [ada tech, data structures and algorithms, dsa, google]
 

@@ -18,13 +18,11 @@ Olá, mundo 👋!
   </div>
 </div> 
 
-Me chamo [Eduardo](mailto:me@edcaraujo.com), tenho mais **10 anos** de experiência em **desenvolvimento de software**, **gestão de equipes** e **programação competitiva**.         
+Me chamo [Eduardo](mailto:me@edcaraujo.com), sou **Líder de Tecnologia** com 12+ anos de experiência, especializado em gestão estratégica e crescimento de plataformas escaláveis.
 
-Atualmente sou **Head de Tecnologia** na [Carefy](https://www.carefy.com.br/), uma empresa especialista em auditoria em saúde, monitorando 7 milhões de vidas e capaz economizar em meses até R$ 4 milhões em custos. Na Carefy, lidero as equipes de tecnologia (Produto, Integração, Suporte, Dados/IA etc.) responsáveis pela evolução e manutenção das soluções.
+Atualmente como **Head de Tecnologia** na [Carefy](https://www.carefy.com.br/), lidero os times de engenharia (Produto, Integração, Dados, IA e Suporte) no desenvolvimento e evolução de soluções que já processaram mais de R\$ 15 bilhões em sinistros médicos e monitoram mais de 7 milhões de pacientes.
 
-Além disso, sou **Instrutor** da [Ada Tech](https://ada.tech/) no programa [PrepTechGoogle](https://ada.tech/sou-aluno/programas/google-prep-tech-2024), onde ensino *Data Structures and Algorithms (DSA)* em nível avançado.
-
-Minha trajetória inclui a **Coordenação de TI** na Fundação Hospital Santa Lydia (FHSL), gerenciando operações em oito unidades hospitalares, e projetos como **Pesquisador e Analista de Sistemas** no Lab. TeleMídia da PUC-Rio, onde contribuí para a especificação do Sistema Brasileiro de TV Digital e as recomendações da ITU-T para serviços IPTV.
+Minha experiência inclui a **Coordenação de TI** em ambientes hospitalares de alta complexidade ([Fundação Hospital Santa Lydia](https://www.hospitalsantalydia.com.br/)) e a participação em projetos de pesquisa e desenvolvimento ([PUC-Rio](https://www.puc-rio.br/)), com contribuições para o Sistema Brasileiro de TV Digital e recomendações ITU-T. Sou também **Instrutor** de Algoritmos e Estrutura de Dados (DSA) na [Ada Tech](https://ada.tech/) para o programa PrepTechGoogle, além de **Professor Universitário**, reforçando minha base técnica e minha paixão por compartilhar conhecimento.
 
 💼 Habilidades e Tecnologias:
 
@@ -71,4 +69,4 @@ Ribeirão Preto - SP, Brasil.
 
 <i class="fas fa-phone fa-lg"></i> +55 16 98165-6463  
 <i class="fas fa-envelope fa-lg"></i> [eduardo.araujo@carefy.com.br](mailto:eduardo.araujo@carefy.com.br)  
-<i class="fas fa-home fa-lg"></i> [https://www.carefy.com.br/](https://www.carefy.com.br/)
+<i class="fas fa-home fa-lg"></i> [https://carefy.com.br/](https://carefy.com.br/)
