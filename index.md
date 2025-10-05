@@ -18,15 +18,15 @@ Olá, mundo 👋!
   </div>
 </div> 
 
-Me chamo [Eduardo](mailto:me@edcaraujo.com), sou **Líder de Tecnologia** com 12+ anos de experiência, especializado em gestão estratégica e crescimento de plataformas escaláveis.
+Me chamo [Eduardo](mailto:me@edcaraujo.com), sou **Líder de Tecnologia** com +12 anos de experiência, especializado em gestão estratégica e crescimento de plataformas escaláveis.
 
 Atualmente como **Head de Tecnologia** na [Carefy](https://www.carefy.com.br/), lidero os times de engenharia (Produto, Integração, Dados, IA e Suporte) no desenvolvimento e evolução de soluções que já processaram mais de R\$ 15 bilhões em sinistros médicos e monitoram mais de 7 milhões de pacientes.
 
-Minha experiência inclui a **Coordenação de TI** em ambientes hospitalares de alta complexidade ([Fundação Hospital Santa Lydia](https://www.hospitalsantalydia.com.br/)) e a participação em projetos de pesquisa e desenvolvimento ([PUC-Rio](https://www.puc-rio.br/)), com contribuições para o Sistema Brasileiro de TV Digital e recomendações ITU-T. Sou também **Instrutor** de Algoritmos e Estrutura de Dados (DSA) na [Ada Tech](https://ada.tech/) para o programa PrepTechGoogle, além de **Professor Universitário**, reforçando minha base técnica e minha paixão por compartilhar conhecimento.
+Minha experiência inclui a **Coordenação de TI** em ambientes hospitalares de alta complexidade ([Fundação Hospital Santa Lydia](https://www.hospitalsantalydia.com.br/)) e a participação em projetos de pesquisa e desenvolvimento ([PUC-Rio](https://www.puc-rio.br/)), com contribuições para o Sistema Brasileiro de TV Digital e recomendações ITU-T. Sou também **Instrutor** de Algoritmos e Estrutura de Dados (DSA) na [Ada Tech](https://ada.tech/) no programa PrepTechGoogle, além de **Professor Universitário** na [Fatec](http://www.fatecrp.edu.br/), reforçando minha base técnica e minha paixão por compartilhar conhecimento.
 
 💼 Habilidades e Tecnologias:
 
-  - **Desenvolvimento**: Node.js, TypeScript, PHP, Python, AWS, Google Cloud, Docker, Kubernetes, entre outros.
+  - **Desenvolvimento**: TypeScript, Javascript, Python, PHP, MySQL, PostegreSQL, MongoDB, AWS, GCP, Docker, Kubernetes, entre outros.
   - **Gestão**: Agile, Scrum, Gestão de Pessoas, OKRs, KPIs.
 
 ## áreas de interesse
